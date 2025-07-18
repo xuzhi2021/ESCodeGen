@@ -1,0 +1,258 @@
+paper title,provenance,bib,dimension,phase
+Empowering business transformation: The positive impact and ethical considerations of generative AI in software product management - A systematic literature review,specific search,parikh2023empowering,"transparency, 
+
+privacy
+
+diversity
+
+licensing (intellectual property rights)
+
+consent
+
+code quality","Transparency: ""GDPR requires that data processing be lawful, fair, and transparent to the data subject""
+
+privacy: ""General Data Protection Regulation (GDPR). The GDPR was established to protect personal data and privacy rights of individuals within the European Union. It provides comprehensive guidelines and laws related to data collection, storage, and usage"", ""confidentiality provisions should be enhanced to prohibit confidential information in AI tool text prompts""
+
+diversity: ""Generative AI development should involve the input of a diverse range of stakeholders.""
+
+intellectual property rights: ""Generative AI presents legal risks, including potential infringement of intellectual property rights, including unresolved legal questions such as ownership and application of copyright, patent, and trademark laws to AI-generated content""
+licensing: ”unclear copyright boundaries, and dubious ownership of AI-generated content“
+
+informed consent: ""GDPR stipulates that data collected for specific purposes should not be used for others unless the data subject consents. ""
+
+code quality: ""performance relies heavily on quality training data, concerns about the quality and accuracy of generated outputs"""
+Learn to Code Sustainably: An Empirical Study on Green Code Generation,specific search,vartziotis2024learn,environment (energy consumption),"""energy consumption and carbon emissions"""
+The Robots are Here: Navigating the Generative AI Revolution in Computing Education,specific search,prather2023robots,"privacy;
+
+consent
+
+fairness
+
+accessibility
+
+distictiveness"," privacy: ""AI tools could invade users’ privacy [12, 17], violate FERPA (a student privacy protection law in the United States) if student records are handed to it [5], do not assume that users are at least 18 years old [18],""
+
+consent: ""these models do not respect confidentiality with regard to legal issues, and data sent to them may be turned over to law enforcement agencies or other third-party vendors and affiliates without user consent [17]""
+
+fairness: ""biases that exist in AI in general and LLMs""
+
+accessibility : ""not all of which are free. Some students might therefore have access to more powerful tools than others""
+
+distictiveness: ""ethical issues about originality"""
+It is Time to Develop an Auditing Framework to Promote Value Aware Chatbots,specific search,wang2024time,"fairness;
+
+Privacy
+
+Accountability;
+
+Transparency;
+
+Intellectual property (Distictiveness);
+
+code quality","fairness :""Equity - What bias and fairness issues exist with the technology? Could the output harm anyone in the society? Is the response biased?""(table 10)
+
+privacy: ""users should never put any sensitive information (e.g. health data) or proprietary information (e.g. employer code) in the prompt. Regulators should implement laws for data privacy and software security. For example, if the prompt contains sensitive information, tech companies should not be allowed use that data for model training or save it in the database""
+
+Accountability: ""Information from chatbots may not be accurate. Care needs to be taken before using the responses. Users are responsible for the content they share.""
+
+Transparency: ""Input transparency: we need to know what data are used to train and produce the response. Output transparency and explainability: we should be able to explain or understand how and why the output is generated""
+
+Distictiveness, copyright (IP): ""Output could too similar to existing work protected by copyright."" 
+
+code quality: ""code may have bugs containing security vulnerabilities"""
+From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy,specific search,gupta2023chatgpt,"privacy and security;
+accessibility
+transparency","privacy: ""issues ranging from use of personal information to sensitive data being save into an LLM’s library"", ""privacy violations"", ""Italy, where regulators banned the use of ChatGPT due to the European Union’s GDPR non-compliance, primarily centered around unauthorized use of personal data""
+accessibility: ""Bard AI, though publicly available as an experimental product, remains restricted to a limited user base during its experimental phase""
+transparency: "" OpenAI and Google have adopted distinct approaches toward the openness and accessibility of their models"""
+Teaching and learning computer programming using ChatGPT: A rapid review of literature amid the rise of generative AI technologies,specific search,garcia2025teaching,"privacy
+fairness
+code quality","privacy: ""data privacy and the potential for legal repercussions, handling and protection of sensitive information""
+
+bias: ""code produced by ChatGPT could manifest biases related to demographic factors""
+
+code quality: ""reliability of the generated code"""
+Evaluating Social Bias in Code Generation Models,specific search,ling2024evaluating,fairness,"""test if the code exhibits biases towards specific demographic groups in social issues."""
+Exploring the Role of AI in Web Design and Development: A Voyage through Automated Code Generation,specific search,muthazhagu2024exploring,"Diversity
+Representativeness;
+privacy
+fairness, 
+intellectual property rights (licensing)
+transparency","diversity: ""generalization is made possible by diversity of dataset""
+representative: ""The availability of broad and representative datasets that capture the complexity and variety of design components seen in real-world scenarios""
+privacy: "" the need of taking privacy concerns into account while curating datasets, especially when working with delicate or private design information""
+fairness: "" unintentionally reinforce biases""
+IP rights: ""do not violate existing copyrights ""
+transparency: ""transparent and interpretable AI models are required"""
+Toward Artificial Intelligence-Human Paired Programming: A Review of the Educational Applications and Research on Artificial Intelligence Code-Generation Tools,specific search,liu2024toward,"fairness;
+licensing;
+sustainability
+code quality","fairness: ""Codex can generate code that reflects stereotypes based on gender, race, emotions, class, naming structures, and other characteristics""
+licensing: ""GitHub copilot uses OpenAI’s codex, which is trained on open-source software projects, raising copyright concerns""
+sustainability: ""may not be as efficient in terms of computational power and network traffic as more mature web services, posing sustainability issues""
+code quality: ""Fake information There might be code that looks convincing but is incorrect or code that is functionally correct but may not achieve the expected or required results"", ""Error information The generated code may contain bugs"""
+Do Generative AI Tools Ensure Green Code? An Investigative Study,specific search,sikand2024generative,"environment (energy consumption, emissions and pollution)","""the generated non-green code could contribute to excess energy consumption and carbon emissions"""
+Can LLMs Generate Green Code - A Comprehensive Study Through LeetCode,specific search,tuttle2024can,energy efficient,"""This paper presents a comprehensive ... in terms of energy consumption and speed, moving beyond traditional accuracy metrics"""
+Empowering Human-Machine Communication in Code Generation with NLP,specific search,aswal2024empowering,fairness,"""minimize bias in NLP-driven code production"""
+WhyGen: Explaining ML-powered Code Generation by Referring to Training Examples,specific search,yan2022whygen,"licensing
+distictiveness","code generators may recite or closely mimic copyrighted training data without user awareness, leading to legal and ethical concerns
+highly similar"
+ChatGPT for Software Development: Opportunities and Challenges,specific search,rahmaniar2023chatgpt,"fairness
+privacy
+code quality","""Ethical considerations, especially concerning data privacy""
+""From detecting bias to promoting fair coding practices, AI has the potential to become a moral compass""
+""AI can provide a different starting point or perspective, but the quality of the final code depends on the skill and judgment of the human programmer."""
+The “Code” of Ethics: A Holistic Audit of AI Code Generators,specific search,ma2024code,"licensing
+code quality
+accountability
+source acknowledgement, disticetiveness","""legal issues of copyright infringement induced by training usage of licensed code“
+""better generation quality when only generating one code snippet""
+""publish or provide clear documentation on the training data used for PLG models, including the sources and legal status of the data. These actions will enhance transparency and accountability""
+""PLG models are capable of generating code that is identical to licensed source code but without the corresponding attribution to the original source coder """
+PaLM: scaling language modeling with pathways,specific search,chowdhery2023palm,"fairness
+
+environment (energy consumption, emissions)
+
+diverse
+
+transparency
+
+religion
+
+culture
+
+code quality
+
+licensing","fairness: ""bias in gender, occupation, races, religions"", ""bias can pervade a system depending on the specific downstream application"";
+
+environment: ""Compute Usage and Environmental Impact"",""report the net tCO2e emitted by training ""
+
+diverisity: "" mitigate such biases and toxicity to enable fair and inclusive use across diverse populations and provide safety guard rails against malicious use cases"";
+
+transparency: ""we omit any manual human labeling to make the analysis transparent and easily reproducible.""
+
+religion: Distribution of toxicity probabilities of the continuation in the first sentence for various religious groups 
+
+culture: ""fairness evaluations and benchmarks developed in and for the Western world may not be readily portable to other geo-cultural contexts where societal disparities may manifest along an entirely different set of axes""
+
+code quality ""Functional correctness is only one aspect of source code quality; LM-produced suggestions must also be readable, robust, fast, and secure""
+
+licensing: ""filtered the files by the license included in the repository; copyleft licenses were excluded."""
+Using AI Assistants in Software Development: A Qualitative Study on Security Practices and Concerns,specific search,klemmer2024using,"privacy;
+code quality
+licensing, acknowledgement","""A few participants reported that their companies banned AI assistants by policy, but mainly for privacy reasons, as outlined in Section 4.2.2"", ""leaking sensitive data when using third-party AI assistants""
+""The overall (security) mistrust in AI assistants is primarily due to code quality concerns."" ""small snippets might be dangerous, e.g., when AI hallucinates packages""
+""returns entire snippets of copyrighted code without any attribution."""
+Reliability Issues of LLMs: ChatGPT a Case Study,"forward snowball from ""From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy""",majeed2024reliability,"transparency;
+
+fairness; diversity; culture
+
+privacy and security;
+
+source acknowledgement
+
+consent, licensing, 
+
+code quality (source, inaccuracy output)","""Transparency as to data sources can help prevent misuse of copyright-protected content."", ""lack of trust and transparency in terms of the resources used in training them""
+
+""diverse data should be used in generating answers to eliminate bias, rather than using only data from the dominant culture""
+
+""memorize the structure/function of the software, leading to configuration disclosure. This problem is more severe than individual privacy leaks""
+
+""it is worth providing source/ repository information where the code came from, so users can verify the source code and licensing information.""
+
+""There should be information regarding consent from each data source to respect copyright in ChatGPT use. In addition, there should be an information menu on the user side that allows users to include/exclude sources based on their needs.""
+
+""unreliable or bad-quality training data lead to poor model performance"", ""there is a risk of prioritizing quality of service over diversity in the sources,  hich may cause a false or inaccurate"""
+Programming Is Hard- Or at Least It Used to Be: Educational Opportunities And Challenges of AI Code Generation,"backward snowball from ""The Robots are Here: Navigating the Generative AI Revolution in Computing Education""",becker2023programming,"code licensing;
+
+environment (energy consumption);
+
+representativeness;
+
+fairness
+
+code quality","""developers may end up using code that requires license compliance and not be aware that it does, even if the code is publicly-available""
+
+""Training AI models can consume significant energy""
+
+""The developers of Codex note that code generation models raise bias and representation issues beyond problematic natural language""
+
+""notably that Codex can generate code with structure that reflects stereotypes about gender, race, emotion, class, the structure of names, and other characteristics [7].""
+
+""Code generation models could be used to generate solutions of varying (or unknown) quality"""
+Exploring ChatGPT’s code refactoring capabilities: An empirical study,"backward snowball from ""Teaching and learning computer programming using ChatGPT: A rapid review of literature amid the rise of generative AI technologies""",depalma2024exploring,"fairness
+privacy and security;
+code quality","""prompt selection, we deliberated on whether bias would be introduced by including the phrase""
+""any original code you provided to ChatGPT may be reused and recommended to other users limiting the security around your data""
+""Refactoring suggestions provided by ChatGPT do not lead to improvements in code quality"""
+Investigating Code Generation Performance of ChatGPT with Crowdsourcing Social Data,"backward snowball from ""Teaching and learning computer programming using ChatGPT: A rapid review of literature amid the rise of generative AI technologies""",feng2023investigating,"fairness;
+representativeness","""evidence of gender and racial bias in the code generated by ChatGPT,""
+""collecting postings containing both ChatGPT and coding makes the retrieved data more accurate and representative;"""
+"From ""Ban It Till We Understand It"" to ""Resistance is Futile"": How University Programming Instructors Plan to Adapt as More Students Use AI Code Generation and Explanation Tools such as ChatGPT and GitHub Copilot","backward snowball from ""Teaching and learning computer programming using ChatGPT: A rapid review of literature amid the rise of generative AI technologies""",lau2023ban,"licensing
+
+fairness
+
+representative;
+
+labor right (fair wage, working condition);
+
+code quality
+
+environment (energy consumption, emissions and pollution)","license: ""disregarding software licenses when scraping code repositories for training data""
+
+fairness: ""whether users may unknowingly reinforce biases by programming using AI tools trained on such data.""
+
+representative: ""whether that data is representative of certain groups of people""
+
+human right (labor right): ""underpaid human workers to label and filter training data;""
+
+code quality: ""Code quality: They may generate code that is stylistically non-ideal, that may not be robust to edge cases""
+
+environment: ""energy usage and climate impacts;"""
+Discriminating Human-authored from ChatGPT Generated Code Via Discernable Feature Analysis,"backward snowball from ""Teaching and learning computer programming using ChatGPT: A rapid review of literature amid the rise of generative AI technologies""",li2023discriminating,"source acknowledgement
+distictiveness
+licensing
+code quality","source acknowledgement: ""acknowledge and credits foundational sources where necessary""
+distictiveness: ""generated code should be sufficiently distinct from existing code""
+licensing: ""These issues could potentially lead to copyright disputes ""
+code quality: ""While this could streamline the code generation process and uphold code quality, it also raises questions regarding innovation and originality in coding"""
+StarCoder: may the source be with you!,"backward snowball from ""Evaluating Social Bias in Code Generation Models""",listarcoder,"data licensing
+
+consent
+
+privacy
+
+code quality
+
+accessibility
+
+transparency
+
+diversity
+
+religion; fairness
+
+generation distictiveness","""collection of permissively licensed GitHub repositories""
+
+""Opt-out process: ...offers a way to remove developer code""
+
+""remove Personally Identifiable Information (PII) from the training data""
+
+""expect Code LLMs to enable people from diverse backgrounds to learn to write higherquality code ""
+
+""openness. Many models are closed-access to varying degrees...  limits their ability to research LLM safety, inspect the models’ inner workings, and contribute to model improvements.""
+
+""The lack of transparency and openness surrounding the development processes of generative AI models has also raised concerns in the scientific community""
+
+""The project is an open-scientific collaboration ... comprises more than 600 members from diverse academic institutes and industry labs;""
+
+""results for gender, professional, racial, and religious bias""
+
+""with fair use being most likely when the model generates novel content dissimilar to any copyrighted training data"""
+Uncovering and quantifying social biases in code generation,"backward snowball from ""Evaluating Social Bias in Code Generation Models""",liu2023uncovering,"fairness
+relgion","""develop a dataset along with three metrics to evaluate the overall social bias and fine-grained unfairness across different demographics""
+""demographic dimensions like “religion”"""
+CodexLeaks: Privacy Leaks from Code Generation Language Models in GitHub Copilot,"backward snowball from ""Using AI Assistants in Software Development: A Qualitative Study on Security Practices and Concerns""",niu2023codexleaks,"privacy
+licensing","""privacy leakage in code generations is a serious risk."";
+""The Stack [25], a collection of permissively licensed GitHub repositories"""
