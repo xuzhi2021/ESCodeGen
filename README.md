@@ -1,8 +1,8 @@
-!\[Literature\_Review\_Overview](figures/literature\_review\_overview.png)
+![Literature_Review_Overview](figures/literature_review_overview.png)
 
 
 
-##### Files with **prefix "appendix"** are materials about the literature review:
+## Files with **prefix "appendix"** are materials about the literature review:
 
 
 
@@ -36,13 +36,13 @@
 
 
 
-##### File **"survey (anonymized for review).pdf"**: the complete survey we sent to participants.
+## File **"survey (anonymized for review).pdf"**: the complete survey we sent to participants.
 
 
 
 
 
-##### Files with **prefix "appendix2"** are materials about the survey results:
+## Files with **prefix "appendix2"** are materials about the survey results:
 
 
 
@@ -56,21 +56,15 @@
 
 **appendix2 - relevance.csv:** The data for Figure 3 in the paper.
 
-!\[Figure 3: Relevance of Dimension in Defining ES-CODEGEN](figures/relevance.png)
-
 
 
 **appendix2 - stages and artifacts.csv:** The data for Figure 4 and Figure 5 in the paper. Note that in the figure, we proportionally scale responses so that the selected options in each row sum to 100%. However, the data provided here are unscaled: each cell shows the percentage of participants who selected that specific stage (or artifact) for the corresponding dimension.
-
-!\[Figure 4: Dimensions and their applicable stages](figures/stages.png)
-
-!\[Figure 5: Dimensions and their applicable artifacts](figures/artifacts.png)
 
 
 
 **appendix2 - acceptable trade-offs.csv:** The specific analytic data for Figure 6 in the paper.
 
-!\[Figure 6: To what extent trade-offs are consider acceptable](figures/trade\_off.png)
+
 
 
 
