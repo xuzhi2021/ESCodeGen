@@ -36,8 +36,10 @@
 
 
 
-## File **"survey (anonymized for review).pdf"**: the complete survey we sent to participants.
+## **"survey (anonymized for review).pdf"**: 
 
+
+The complete survey we sent to participants.
 
 
 
@@ -54,15 +56,19 @@
 
 
 
-**appendix2 - relevance.csv:** The data for Figure 3 in the paper.
+**appendix2 - relevance.csv:** The data for Figure 3 (Relevance of Dimension in Defining ES-CodeGen) in the paper.
 
 
 
-**appendix2 - stages and artifacts.csv:** The data for Figure 4 and Figure 5 in the paper. Note that in the figure, we proportionally scale responses so that the selected options in each row sum to 100%. However, the data provided here are unscaled: each cell shows the percentage of participants who selected that specific stage (or artifact) for the corresponding dimension.
+**appendix2 - stages and artifacts.csv:** The data for Figure 4 (Dimensions and their applicable stages) and Figure 5 (Dimensions and their applicable artifacts) in the paper. Note that in the figure, we proportionally scale responses so that the selected options in each row sum to 100%. However, the data provided here are unscaled: each cell shows the percentage of participants who selected that specific stage (or artifact) for the corresponding dimension.
 
 
 
-**appendix2 - acceptable trade-offs.csv:** The specific analytic data for Figure 6 in the paper.
+**appendix2 - acceptable trade-offs.csv:** The specific analytic data for Figure 6 (To what extent trade-offs are considered acceptable) in the paper.
+
+
+## **"figures" folder:**
+Contains the workflow of our literature review (as shown above) and Figures 3 to 6.
 
 
 
