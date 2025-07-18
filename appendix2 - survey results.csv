@@ -1,0 +1,390 @@
+Progress,Finished,Response ID,Distribution Channel,User Language,Q_RecaptchaScore,consent,Which one of the following describes your role in daily work best? - Selected Choice,Which one of the following describes your role in daily work best? - Other (please specify): - Text,How many years of programming/coding experience do you have?,How familiar are you with code generation models?,"How many code generation models are you familiar with (e.g., ChatGPT)?","How frequently do you interact with code generation models (using, working with, or developing them)?","How many years of experience do you have working with AI-based or LLM-based code generation tools/models (including API use, model training, or fine-tuning)?","How familiar are you with the concept of ""ethically sourced"" products (e.g., ethically sourced coffee, clothing)?","How knowledgeable are you in defining ""ethically sourced code generation models""?","In your opinion, what should be considered when defining ""ethically sourced code generation""?","Have you ever encountered ethical sourcing issues while using, working with, or developing code generation models? Please describe. (If you have not, you may simply write ""No."")","Source-Subject Right: Whether the model development respects the rights of data subjects or creators to control their source and provide informed consent for its use are respected at each stage and its artifacts.
+ Including:
+ -Infomed Consent: Whether to inform data subjects or creators and obtain consent to how their source is used.
+ -Privacy: Whether to avoid or remove the private or confidential information when using the source.","Source-Equity: Whether the model development reflects principles of diversity,
+ fairness, and inclusive representation at each stage and its artifacts.
+ Including:
+ -Diversity: Whether to consider diverse social, cultural, geographic, and disciplinary perspectives.
+ -Fairness: Whether to eliminate potential biases and do not contain offensive content.
+ -Representation: Whether to consider meaningful and proportional coverage of different demographic groups in source materials.","Source-Access: Whether the artifacts in the model development are accessible and properly controlled.
+ Including:
+ -Accessibility: Whether artifacts are available and usable under appropriate conditionsâ€”public resources are openly accessible, while sensitive or consent-restricted materials are properly protected or access-controlled.","Source-Accountability: Whether the model development ensures responsibility and traceability at each stage and its artifacts.
+ Including:
+ -Transparency: Whether the stages and artifacts are made visible and traceable to support accountability.","Source-Intellectual Property Rights: Whether the model development respects intellectual property rights at each stage and its artifacts.
+ Including:
+ -Source Acknowledgement: Whether to acknowledge and credit externally sourced or reused artifacts properly.
+ -Licensing: Whether to comply with relevant licenses, even if they are publicly available.
+ -Generation Distinctiveness: Whether the generated outputs are sufficiently distinct from the original inputs to avoid infringement.","Source-Integrity: Whether the model development complies with ethical standards, with no contamination involved at each stage and its artifacts.
+ 
+ Including:
+ 
+ -Contamination: Whether to remain uncontaminated and rely only on verified sources. For example, model inputs should avoid mixing with code that contains bot-generated or model-generated content, especially when the ethical standards or provenance of the bot or model are unknown.","Which artifact(s) of the code generation model do you believe the above dimensions should apply to? (Please select all that apply.)
+ 
+ -Training data: The raw data used to train or fine-tune the model.
+ 
+ -Dependencies: Any third-party dependencies, libraries, packages or frameworks used in training data code repositories and model implementation.
+ 
+ -Model Metadata: Artifacts related to the trained model, including learned parameters, hyperparameters, and related metadata.
+ 
+ -Documentation: Written artifacts that provide essential disclosures about the models, such as training source, limitations, and intended uses.
+ 
+ -Prompt: The input or instruction used to guide the modelâ€™s response.
+ 
+ -Output: The final generated code or response produced by the model. - Subject Right
+ 
+ (Informed Consent, Privacy)","Which artifact(s) of the code generation model do you believe the above dimensions should apply to? (Please select all that apply.)
+ 
+ -Training data: The raw data used to train or fine-tune the model.
+ 
+ -Dependencies: Any third-party dependencies, libraries, packages or frameworks used in training data code repositories and model implementation.
+ 
+ -Model Metadata: Artifacts related to the trained model, including learned parameters, hyperparameters, and related metadata.
+ 
+ -Documentation: Written artifacts that provide essential disclosures about the models, such as training source, limitations, and intended uses.
+ 
+ -Prompt: The input or instruction used to guide the modelâ€™s response.
+ 
+ -Output: The final generated code or response produced by the model. - Equity
+ 
+ (Diversity, Fairness, Representation)","Which artifact(s) of the code generation model do you believe the above dimensions should apply to? (Please select all that apply.)
+ 
+ -Training data: The raw data used to train or fine-tune the model.
+ 
+ -Dependencies: Any third-party dependencies, libraries, packages or frameworks used in training data code repositories and model implementation.
+ 
+ -Model Metadata: Artifacts related to the trained model, including learned parameters, hyperparameters, and related metadata.
+ 
+ -Documentation: Written artifacts that provide essential disclosures about the models, such as training source, limitations, and intended uses.
+ 
+ -Prompt: The input or instruction used to guide the modelâ€™s response.
+ 
+ -Output: The final generated code or response produced by the model. - Access
+ 
+ (Accessibility)","Which artifact(s) of the code generation model do you believe the above dimensions should apply to? (Please select all that apply.)
+ 
+ -Training data: The raw data used to train or fine-tune the model.
+ 
+ -Dependencies: Any third-party dependencies, libraries, packages or frameworks used in training data code repositories and model implementation.
+ 
+ -Model Metadata: Artifacts related to the trained model, including learned parameters, hyperparameters, and related metadata.
+ 
+ -Documentation: Written artifacts that provide essential disclosures about the models, such as training source, limitations, and intended uses.
+ 
+ -Prompt: The input or instruction used to guide the modelâ€™s response.
+ 
+ -Output: The final generated code or response produced by the model. - Accountability
+ 
+ (Transparency)","Which artifact(s) of the code generation model do you believe the above dimensions should apply to? (Please select all that apply.)
+ 
+ -Training data: The raw data used to train or fine-tune the model.
+ 
+ -Dependencies: Any third-party dependencies, libraries, packages or frameworks used in training data code repositories and model implementation.
+ 
+ -Model Metadata: Artifacts related to the trained model, including learned parameters, hyperparameters, and related metadata.
+ 
+ -Documentation: Written artifacts that provide essential disclosures about the models, such as training source, limitations, and intended uses.
+ 
+ -Prompt: The input or instruction used to guide the modelâ€™s response.
+ 
+ -Output: The final generated code or response produced by the model. - Intellectual Property Rights
+ 
+ (Source Acknowledgement, Licensing, Generation Distinctiveness)","Which artifact(s) of the code generation model do you believe the above dimensions should apply to? (Please select all that apply.)
+ 
+ -Training data: The raw data used to train or fine-tune the model.
+ 
+ -Dependencies: Any third-party dependencies, libraries, packages or frameworks used in training data code repositories and model implementation.
+ 
+ -Model Metadata: Artifacts related to the trained model, including learned parameters, hyperparameters, and related metadata.
+ 
+ -Documentation: Written artifacts that provide essential disclosures about the models, such as training source, limitations, and intended uses.
+ 
+ -Prompt: The input or instruction used to guide the modelâ€™s response.
+ 
+ -Output: The final generated code or response produced by the model. - Integrity
+ 
+ (Contamination)","Which stage(s) of the code generation model development process do you believe the above dimensions should apply to? (Please select all that apply.)
+ 
+ -Data Collection: The process of acquiring data from various sources.
+ 
+ -Data Annotation: The process of labeling data.
+ 
+ -Data Cleaning: The process of removing duplicates, erroneous, or irrelevant data, and preparing data for model training.
+ 
+ -Model Training and Fine-tuning (if applicable): Training large-scale models on dataset and optionally adapting them to downstream tasks.
+ 
+ -Model Evaluation: Assessing model performance using standard code generation benchmarks.
+ 
+ -Model Deployment: Integrating the trained model into systems for real-world use.
+ 
+ -Post-deployment (Monitoring/Inference): Serving the model in real-world environments and monitoring its outputs and performance during inference. - Subject Right
+ 
+ (Informed Consent, Privacy)","Which stage(s) of the code generation model development process do you believe the above dimensions should apply to? (Please select all that apply.)
+ 
+ -Data Collection: The process of acquiring data from various sources.
+ 
+ -Data Annotation: The process of labeling data.
+ 
+ -Data Cleaning: The process of removing duplicates, erroneous, or irrelevant data, and preparing data for model training.
+ 
+ -Model Training and Fine-tuning (if applicable): Training large-scale models on dataset and optionally adapting them to downstream tasks.
+ 
+ -Model Evaluation: Assessing model performance using standard code generation benchmarks.
+ 
+ -Model Deployment: Integrating the trained model into systems for real-world use.
+ 
+ -Post-deployment (Monitoring/Inference): Serving the model in real-world environments and monitoring its outputs and performance during inference. - Equity
+ 
+ (Diversity, Fairness, Representation)","Which stage(s) of the code generation model development process do you believe the above dimensions should apply to? (Please select all that apply.)
+ 
+ -Data Collection: The process of acquiring data from various sources.
+ 
+ -Data Annotation: The process of labeling data.
+ 
+ -Data Cleaning: The process of removing duplicates, erroneous, or irrelevant data, and preparing data for model training.
+ 
+ -Model Training and Fine-tuning (if applicable): Training large-scale models on dataset and optionally adapting them to downstream tasks.
+ 
+ -Model Evaluation: Assessing model performance using standard code generation benchmarks.
+ 
+ -Model Deployment: Integrating the trained model into systems for real-world use.
+ 
+ -Post-deployment (Monitoring/Inference): Serving the model in real-world environments and monitoring its outputs and performance during inference. - Access
+ 
+ (Accessibility)","Which stage(s) of the code generation model development process do you believe the above dimensions should apply to? (Please select all that apply.)
+ 
+ -Data Collection: The process of acquiring data from various sources.
+ 
+ -Data Annotation: The process of labeling data.
+ 
+ -Data Cleaning: The process of removing duplicates, erroneous, or irrelevant data, and preparing data for model training.
+ 
+ -Model Training and Fine-tuning (if applicable): Training large-scale models on dataset and optionally adapting them to downstream tasks.
+ 
+ -Model Evaluation: Assessing model performance using standard code generation benchmarks.
+ 
+ -Model Deployment: Integrating the trained model into systems for real-world use.
+ 
+ -Post-deployment (Monitoring/Inference): Serving the model in real-world environments and monitoring its outputs and performance during inference. - Accountability
+ 
+ (Transparency)","Which stage(s) of the code generation model development process do you believe the above dimensions should apply to? (Please select all that apply.)
+ 
+ -Data Collection: The process of acquiring data from various sources.
+ 
+ -Data Annotation: The process of labeling data.
+ 
+ -Data Cleaning: The process of removing duplicates, erroneous, or irrelevant data, and preparing data for model training.
+ 
+ -Model Training and Fine-tuning (if applicable): Training large-scale models on dataset and optionally adapting them to downstream tasks.
+ 
+ -Model Evaluation: Assessing model performance using standard code generation benchmarks.
+ 
+ -Model Deployment: Integrating the trained model into systems for real-world use.
+ 
+ -Post-deployment (Monitoring/Inference): Serving the model in real-world environments and monitoring its outputs and performance during inference. - Intellectual Property Rights
+ 
+ (Source Acknowledgement, Licensing, Generation Distinctiveness)","Which stage(s) of the code generation model development process do you believe the above dimensions should apply to? (Please select all that apply.)
+ 
+ -Data Collection: The process of acquiring data from various sources.
+ 
+ -Data Annotation: The process of labeling data.
+ 
+ -Data Cleaning: The process of removing duplicates, erroneous, or irrelevant data, and preparing data for model training.
+ 
+ -Model Training and Fine-tuning (if applicable): Training large-scale models on dataset and optionally adapting them to downstream tasks.
+ 
+ -Model Evaluation: Assessing model performance using standard code generation benchmarks.
+ 
+ -Model Deployment: Integrating the trained model into systems for real-world use.
+ 
+ -Post-deployment (Monitoring/Inference): Serving the model in real-world environments and monitoring its outputs and performance during inference. - Integrity
+ 
+ (Contamination)","Society-Social Responsibility: Whether the development of code generation models takes on broader social responsibilities, such as contributing to community development at each stage and its artifacts.
+ Including:
+ -Community Development: Whether communities involved in or affected by code generation benefit from the process, rather than being treated solely as sources of data or labor.","Society-Social Acceptability: Whether the development process of code generation models respects for different culture and religious beliefs at each stage and its artifacts.
+ including:
+ -Religion: Whether religious beliefs, practices, and sensitivities are acknowledged and respected.
+ -Culture: Whether diverse cultural identities and values are considered, and cultural dominance, marginalization, or erasure is actively avoided.","Society-Labor Rights: Whether the development of code generation model respects basic labor and human rights of workers involved in each stage and its artifacts.
+ Including:
+ -Fair Wages: Whether human workers involved are compensated with reasonable and fair pay.
+ -Working Conditions: Whether mentally and physically safe conditions are provided throughout the development process.
+ -Legal Employment: Whether the labor of vulnerable communities is not exploited, and that all employment practices comply with legal and ethical standards.","Environment-Sustainability: Whether the development of code generation models is conducted in an environmentally sustainable manner at each stage and its artifacts.
+ Including:
+ -Energy Consumption: Whether energy use and computational resource demands are measured and taken into account.
+ -Emissions and Pollution: Whether the environmental impactâ€”such as carbon emissions and potential pollutionâ€”is properly considered during development.","Which artifact(s) of the code generation model do you believe the above dimensions should apply to? (Please select all that apply.)
+ 
+ -Training data: The raw data used to train or fine-tune the model.
+ 
+ -Dependencies: Any third-party dependencies, libraries, packages or frameworks used in training data code repositories and model implementation.
+ 
+ -Model Metadata: Artifacts related to the trained model, including learned parameters, hyperparameters, and related metadata.
+ 
+ -Documentation: Written artifacts that provide essential disclosures about the models, such as training source, limitations, and intended uses.
+ 
+ -Prompt: The input or instruction used to guide the modelâ€™s response.
+ 
+ -Output: The final generated code or response produced by the model. - Social Responsibility
+ 
+ (Community Development)","Which artifact(s) of the code generation model do you believe the above dimensions should apply to? (Please select all that apply.)
+ 
+ -Training data: The raw data used to train or fine-tune the model.
+ 
+ -Dependencies: Any third-party dependencies, libraries, packages or frameworks used in training data code repositories and model implementation.
+ 
+ -Model Metadata: Artifacts related to the trained model, including learned parameters, hyperparameters, and related metadata.
+ 
+ -Documentation: Written artifacts that provide essential disclosures about the models, such as training source, limitations, and intended uses.
+ 
+ -Prompt: The input or instruction used to guide the modelâ€™s response.
+ 
+ -Output: The final generated code or response produced by the model. - Social Acceptability
+ 
+ (Religion, Culture)","Which artifact(s) of the code generation model do you believe the above dimensions should apply to? (Please select all that apply.)
+ 
+ -Training data: The raw data used to train or fine-tune the model.
+ 
+ -Dependencies: Any third-party dependencies, libraries, packages or frameworks used in training data code repositories and model implementation.
+ 
+ -Model Metadata: Artifacts related to the trained model, including learned parameters, hyperparameters, and related metadata.
+ 
+ -Documentation: Written artifacts that provide essential disclosures about the models, such as training source, limitations, and intended uses.
+ 
+ -Prompt: The input or instruction used to guide the modelâ€™s response.
+ 
+ -Output: The final generated code or response produced by the model. - Labor Rights
+ 
+ (Fair Wages, Working Conditions, Legal Employment)","Which artifact(s) of the code generation model do you believe the above dimensions should apply to? (Please select all that apply.)
+ 
+ -Training data: The raw data used to train or fine-tune the model.
+ 
+ -Dependencies: Any third-party dependencies, libraries, packages or frameworks used in training data code repositories and model implementation.
+ 
+ -Model Metadata: Artifacts related to the trained model, including learned parameters, hyperparameters, and related metadata.
+ 
+ -Documentation: Written artifacts that provide essential disclosures about the models, such as training source, limitations, and intended uses.
+ 
+ -Prompt: The input or instruction used to guide the modelâ€™s response.
+ 
+ -Output: The final generated code or response produced by the model. - Sustainability
+ 
+ (Energy Consumption, Emissions and Pollution)","Which stage(s) of the code generation model development process do you believe the above dimensions should apply to? (Please select all that apply.)
+ 
+ -Data Collection: The process of acquiring data from various sources.
+ 
+ -Data Annotation: The process of labeling data.
+ 
+ -Data Cleaning: The process of removing duplicates, erroneous, or irrelevant data, and preparing data for model training.
+ 
+ -Model Training and Fine-tuning (if applicable): Training large-scale models on dataset and optionally adapting them to downstream tasks.
+ 
+ -Model Evaluation: Assessing model performance using standard code generation benchmarks.
+ 
+ -Model Deployment: Integrating the trained model into systems for real-world use.
+ 
+ -Post-deployment (Monitoring/Inference): Serving the model in real-world environments and monitoring its outputs and performance during inference. - Social Responsibility
+ 
+ (Community Development)","Which stage(s) of the code generation model development process do you believe the above dimensions should apply to? (Please select all that apply.)
+ 
+ -Data Collection: The process of acquiring data from various sources.
+ 
+ -Data Annotation: The process of labeling data.
+ 
+ -Data Cleaning: The process of removing duplicates, erroneous, or irrelevant data, and preparing data for model training.
+ 
+ -Model Training and Fine-tuning (if applicable): Training large-scale models on dataset and optionally adapting them to downstream tasks.
+ 
+ -Model Evaluation: Assessing model performance using standard code generation benchmarks.
+ 
+ -Model Deployment: Integrating the trained model into systems for real-world use.
+ 
+ -Post-deployment (Monitoring/Inference): Serving the model in real-world environments and monitoring its outputs and performance during inference. - Social Acceptability
+ 
+ (Religion, Culture)","Which stage(s) of the code generation model development process do you believe the above dimensions should apply to? (Please select all that apply.)
+ 
+ -Data Collection: The process of acquiring data from various sources.
+ 
+ -Data Annotation: The process of labeling data.
+ 
+ -Data Cleaning: The process of removing duplicates, erroneous, or irrelevant data, and preparing data for model training.
+ 
+ -Model Training and Fine-tuning (if applicable): Training large-scale models on dataset and optionally adapting them to downstream tasks.
+ 
+ -Model Evaluation: Assessing model performance using standard code generation benchmarks.
+ 
+ -Model Deployment: Integrating the trained model into systems for real-world use.
+ 
+ -Post-deployment (Monitoring/Inference): Serving the model in real-world environments and monitoring its outputs and performance during inference. - Labor Rights
+ 
+ (Fair Wages, Working Conditions, Legal Employment)","Which stage(s) of the code generation model development process do you believe the above dimensions should apply to? (Please select all that apply.)
+ 
+ -Data Collection: The process of acquiring data from various sources.
+ 
+ -Data Annotation: The process of labeling data.
+ 
+ -Data Cleaning: The process of removing duplicates, erroneous, or irrelevant data, and preparing data for model training.
+ 
+ -Model Training and Fine-tuning (if applicable): Training large-scale models on dataset and optionally adapting them to downstream tasks.
+ 
+ -Model Evaluation: Assessing model performance using standard code generation benchmarks.
+ 
+ -Model Deployment: Integrating the trained model into systems for real-world use.
+ 
+ -Post-deployment (Monitoring/Inference): Serving the model in real-world environments and monitoring its outputs and performance during inference. - Sustainability
+ 
+ (Energy Consumption, Emissions and Pollution)","Since you answered ""None of above"", what other kinds of artifacts do you think should be considered?","Since you answered ""None of above"", what other kinds of stages do you think should be considered?","After reading our dimensions, do you think you have encountered any situation where an ethically sourced code generation model was neededâ€”for example, when the code generated by models is from unknown sources, you were unsure if it was safe or legal to use? If yes, please briefly describe the situation.",What do you think could be potential impacts or consequences of code generation models that are not ethically sourced (from the perspective of both model developers and users)?,"Can you share any examples or experiences that illustrate why you think certain dimensions are relevant to the definition of ethically sourced code generation?
+ If yes, please share your examples, experiences, or just your personal reasoning.","Based on the dimensions you have just considered, do you believe that any currently available code generation tools align with the definition of ethically sourced code generation? If yes, please list the name(s) of the tool(s) and briefly explain why.",Which of the following(s) do you think could be potential impacts of code generation models that are not ethically sourced? (Please select all that apply.) - Selected Choice,Which of the following(s) do you think could be potential impacts of code generation models that are not ethically sourced? (Please select all that apply.) - Others (Please specify) - Text,How much decrease in output accuracy performance would you consider acceptable if a code generation model were made ethically sourced?,"How much increase in response time (e.g., during generation or inference) would you consider acceptable if a code generation model were made ethically sourced?","How much additional time cost (e.g., in filtering data) would be acceptable for making a code generation model ethically sourced?",How much additional financial cost would be acceptable for making a code generation model ethically sourced?,What kind(s) of source contamination do you consider acceptable in the training dataset of code generation model? (Please select all that apply.) - Selected Choice,What kind(s) of source contamination do you consider acceptable in the training dataset of code generation model? (Please select all that apply.) - Others (please specify) - Text,"If trade-offs are unavoidable, which types of costs should be prioritized (i.e., kept as low as possible) when developing ethically sourced code generation tools?
+ Please drag the following items to rank them in order of importance (1 = most important). - Accuracy loss","If trade-offs are unavoidable, which types of costs should be prioritized (i.e., kept as low as possible) when developing ethically sourced code generation tools?
+ Please drag the following items to rank them in order of importance (1 = most important). - Response time / latency","If trade-offs are unavoidable, which types of costs should be prioritized (i.e., kept as low as possible) when developing ethically sourced code generation tools?
+ Please drag the following items to rank them in order of importance (1 = most important). - Data preparation time","If trade-offs are unavoidable, which types of costs should be prioritized (i.e., kept as low as possible) when developing ethically sourced code generation tools?
+ Please drag the following items to rank them in order of importance (1 = most important). - Financial or resource cost","If trade-offs are unavoidable, which types of costs should be prioritized (i.e., kept as low as possible) when developing ethically sourced code generation tools?
+ Please drag the following items to rank them in order of importance (1 = most important). - Data contamination","After completing this survey, do you feel that your understanding of ethically sourced code generation has improved?",Has this survey made you feel that the issues of ethically sourced code generation are more important than you previously thought?,Which of the following dimensions do you realize that you have ignored before you taking this survey? (Please select all that apply.) - Selected Choice,Which of the following dimensions do you realize that you have ignored before you taking this survey? (Please select all that apply.) - Others (please specify) - Text,"Do you think the dimensions and definitions discussed in this survey could be generalized to other fields beyond code generation (e.g., image generation, voice generation)?","Is there anything about ethically sourced code generation that you still find unclear, confusing, or difficult to define? Are there any other dimensions you think should be included? (If nothing comes to mind, you may simply write â€œNo.â€)"
+"{""ImportId"":""progress""}","{""ImportId"":""finished""}","{""ImportId"":""_recordId""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""Q_RecaptchaScore""}","{""ImportId"":""QID102""}","{""ImportId"":""QID6""}","{""ImportId"":""QID6_10_TEXT""}","{""ImportId"":""QID88_TEXT""}","{""ImportId"":""QID33""}","{""ImportId"":""QID36_TEXT""}","{""ImportId"":""QID32""}","{""ImportId"":""QID34_TEXT""}","{""ImportId"":""QID35""}","{""ImportId"":""QID94""}","{""ImportId"":""QID4_TEXT""}","{""ImportId"":""QID5_TEXT""}","{""ImportId"":""QID42""}","{""ImportId"":""QID49""}","{""ImportId"":""QID50""}","{""ImportId"":""QID51""}","{""ImportId"":""QID52""}","{""ImportId"":""QID58""}","{""ImportId"":""QID91_1""}","{""ImportId"":""QID91_2""}","{""ImportId"":""QID91_3""}","{""ImportId"":""QID91_4""}","{""ImportId"":""QID91_5""}","{""ImportId"":""QID91_6""}","{""ImportId"":""QID98_1""}","{""ImportId"":""QID98_2""}","{""ImportId"":""QID98_3""}","{""ImportId"":""QID98_4""}","{""ImportId"":""QID98_5""}","{""ImportId"":""QID98_6""}","{""ImportId"":""QID53""}","{""ImportId"":""QID54""}","{""ImportId"":""QID55""}","{""ImportId"":""QID56""}","{""ImportId"":""QID97_7""}","{""ImportId"":""QID97_8""}","{""ImportId"":""QID97_9""}","{""ImportId"":""QID97_10""}","{""ImportId"":""QID93_7""}","{""ImportId"":""QID93_8""}","{""ImportId"":""QID93_9""}","{""ImportId"":""QID93_10""}","{""ImportId"":""QID104_TEXT""}","{""ImportId"":""QID105_TEXT""}","{""ImportId"":""QID65_TEXT""}","{""ImportId"":""QID66_TEXT""}","{""ImportId"":""QID67_TEXT""}","{""ImportId"":""QID68_TEXT""}","{""ImportId"":""QID99""}","{""ImportId"":""QID99_4_TEXT""}","{""ImportId"":""QID70""}","{""ImportId"":""QID71""}","{""ImportId"":""QID73""}","{""ImportId"":""QID74""}","{""ImportId"":""QID95""}","{""ImportId"":""QID95_4_TEXT""}","{""ImportId"":""QID75_1""}","{""ImportId"":""QID75_2""}","{""ImportId"":""QID75_3""}","{""ImportId"":""QID75_4""}","{""ImportId"":""QID75_5""}","{""ImportId"":""QID77""}","{""ImportId"":""QID80""}","{""ImportId"":""QID96""}","{""ImportId"":""QID96_13_TEXT""}","{""ImportId"":""QID81""}","{""ImportId"":""QID82_TEXT""}"
+100,1,R_71Z1TZQQID1hnrl,anonymous,EN,0.9,1,4,,25,4,5,1,2,3,3,The souce for generating the code should be recorded and traced,"for example, I don't know whether the generated code is a copy of code from other sources",4,3,4,4,5,4,9,9,9,9,9,9,"1,4,5,8,7","1,5","1,8,7","1,4,5","1,2,4,5","1,4,5",4,4,4,4,8,8,8,8,"1,2,4,5,8,7",5,"2,5,8,7","1,5,8,7",,,"Yes, because I am not sure if the code generated can be used in my product or not",It makes the generated code unreliable and untrustable,It is based on my personal reasoning,"no, my guess is that current tools do not align with the definition of ethically sourced code generation","9,1,7,3,8,6,11,10",,3,3,3,3,5,,3,2,5,4,1,4,4,"7,8,9,10",,4,"no, the points listed in this survey are quite comprehensive"
+100,1,R_8Y34YAOnBbCcLQw,anonymous,EN,0.8,1,4,,10,3,3,4,2,2,2,"Sustainability (Environmental impact)
+ Contribution to authors if AI copies code snippets
+ Some guarantee of code quality (e.g., security)
+ No learning from input to avoid privacy issues","News on environmental impact and privacy issues through the model learning, low code quality",5,4,4,3,5,4,9,"1,3,4,5,6","2,3,4,6","1,2,3,4","1,2,5","1,2,6","1,2,4,5,8,7","1,4,5,8,7","1,4,5,8,7","1,2,3,4,5,8,7,11","1,2,3,5,8,7,11","1,3,4,5",4,3,4,5,"1,2,6","1,6","1,2,3,4,5,6,8","1,2,3,4,5,6,8","1,2,3,4,5,8,7,6","1,2,3,4,5,8,7,6","1,2,3,4,5,8,7,6","1,2,3,4,5,8,7,6",,,"New about the Environmental impact, and privacy violations of models","Environmental issues, data leaks, using data that's copyrighted by developers",News and research articles,no,"9,1,7,3,8,6,2,11,10",,6,5,5,5,"3,2",,5,2,3,1,4,4,3,"7,8,9",,4,no
+100,1,R_2n2OxsREA7LAHIl,anonymous,EN,0.6,1,1,,10,4,2,1,2,2,1,whether the code generated by teh AI contains material that could be violating copyright laws and whether it is understandable to verify whether it is safe,No,4,4,3,4,4,4,9,"1,2,3",9,9,9,9,"1,2,3,4,5,8,7","1,2,3","1,2,3","1,2,3,4,5,8,7","1,2,3,4,5,8,7","1,2,3,4,5,8,7",4,3,5,4,8,"1,4,5,6","1,3,5,6","1,2,3","1,2,3,4","1,2,3","1,2,3,4,5,8,7","1,2,3,4",,,No,"possible legal issues, negative consequences on society if working conditions are bad or energy consumption too high",I think the legal issues and the environmental issues are very important because they both are still uncertain and will have an huge effect on society in the coming years,"No, while I think that there will be improvements in the coming years, I think that the current technology is not developed enough to be classified ethically sourced","9,1,7,3,8,6,2,11,10",,3,3,6,5,2,,2,3,5,4,1,4,4,"2,6,8,9",,4,No
+100,1,R_72TdKwJh2PEL0Zz,anonymous,EN,0.8,1,4,,20,5,5,2,3,3,3,"- licensing and compliance
+ - fairness both in terms of generating code that consider fairness and in terms of attributing code to the sources used during training 
+ - privacy and security 
+ - energy-awareness and efficiency","Yes, all above",5,5,5,5,5,5,9,9,9,9,9,9,11,11,11,11,11,11,5,5,5,5,8,8,8,8,6,6,6,6,,,Most of the time these dimentions are not respected,"Monopolies, security threats, risks, copyright infringement etc.",",",No,"9,7,3,8,6,2,11,10",,2,2,2,2,"1,3,2,7",,5,2,3,4,1,3,3,12,,5,No
+100,1,R_3w7g55cN3ZXab0Z,anonymous,EN,1,1,9,,4,4,5,1,1,4,1,"Have you ever encountered ethical sourcing issues while using, working with, or developing code generation models? Please describe. (If you have not, you may simply write ""No."")","Current models face significant challenges with traceability. They generate code and ideas while citing sources that, in many cases, do not exist. Even when the cited sources are real, the information, ideas, or code provided by these models are not actually found in those sources.",5,5,5,5,5,5,"1,4",6,"2,3,4",9,9,9,"1,2,3","4,5,8,7","8,7","8,7","4,5,8,7","2,3,5,7",5,3,3,5,"5,6","5,6",5,"2,5","3,8,7","8,7",7,"5,8,7",,,"I often think about whether a piece of code is safe or legal when it uses a third-party library or API. Sometimes I have my API keys, and I want to avoid posting them on any unknown website.",The model could reveal very sensitive information about an entity.,No,I don't believe such a model exists. Companies now prioritize productivity over reliable and ethically sourced code. I fear we may see catastrophic effects in a few years.,"1,7,8,2",,3,1,4,4,5,,4,3,5,2,1,5,4,8,,4,No
+100,1,R_4Euo5ZsbRnQqAsb,anonymous,EN,0.9,1,9,,4,5,6,1,4,3,3,Code that is free from bias and properly sourced without copyright violations,No,5,5,4,4,4,3,"1,2,4","1,2,6","3,4,6",9,1,"1,2",11,11,11,11,1,"1,2,3",5,5,5,4,8,8,8,8,6,6,6,6,,,Using code from certain github repositories or packages developed by others for Proprietary softwares,Ould potentially deter deep thinking and understanding before code deployment,Fairness especially in the way models are trained and the bias of the inherent training data could largely affect model outputs and have a large impact on a society that is increasingly building upon AI generated outputs.,No,"9,1,7,3,8,6,2,11,10",,1,2,2,2,5,,1,3,4,5,2,4,4,"3,6,9",,5,No
+100,1,R_9LunYQ15josaj9L,anonymous,EN,0.5,1,4,,18,5,10,1,3,4,4,The creation process of the code generation model and tool should always follow an ethical standard.,Very few cases such as generating impolite responses or code with license issues.,5,4,5,4,5,5,"1,4,5,6","1,4,5,6",9,"1,2,3,4,6",9,9,11,"1,5",11,"1,2,3,4,5,8",11,11,4,5,5,5,"1,2,3",8,8,8,"2,5,8,7",6,6,6,,,I want to be assured when using code generation models. I don't want to get troubled when the code I am using generated by the model has ethical issues.,Social stress of using unethical code generated by models.,"Some models are developed by people who work overtime and the competition is not fair, by sacrificing our personal time.","No, nearly all of them","9,1,7,6,2,11,10",,3,6,5,5,5,,1,2,3,4,5,5,5,"7,10",,5,No
+100,1,R_4FJq1kejEMyQ5m1,anonymous,EN,0.9,1,4,,10,4,5,1,2,2,1,"privacy, security, and consent",No,5,2,2,4,4,4,9,9,9,9,9,9,11,11,11,11,11,11,3,2,3,3,8,8,8,8,6,6,6,6,,,"Yes, when the model reads my requirements, and it generates some unverified code.",may generate unsafe codes and affect the reliability of the software,N/A,n/a,"9,1,7,3,8,6,2,11,10",,6,6,2,2,"1,3,8,2,6,7",,1,2,3,5,4,4,4,"2,3,4,5,6,7,8,9,10",,3,No
+100,1,R_3P4WVat2FdaAAJC,anonymous,EN,1,1,4,,15,5,5,1,4,3,3,"software license, malware, vulnerable code, privacy related","yes, credential leakage",5,5,5,5,5,4,"4,5,6","4,5,6","4,5,6","4,5,6","4,5,6","4,5,6","5,8,7","5,8,7",5,8,"1,2,3,4,8","3,7",5,2,2,5,"4,5,6","4,5,6",4,"4,5,6","5,8",9,9,6,,data annotation,No,malware,No,No,"9,1,7,3,8,6,2,11,10",,6,6,6,6,"1,3,8,2,6",,2,3,5,1,4,4,4,"1,2,3,4,5,6,7,8,9,10,11",,4,No
+100,1,R_7lhLoDNDS6prko7,anonymous,EN,0.9,1,9,,4,3,4,2,1,4,3,"Whose code is being used, and whether they have provided permission to use it. Some code may be in public repos for anyone to use, but in other cases, people will want credit for their work. Also, it matters whether the code generated is accurate.",Not for code specifically.,4,5,4,5,3,5,"1,3,4","1,3,4,6","1,2,4,6",9,"1,3,4","1,2,4","1,3,4,5","1,4,8,7","1,2,3,4,5,8,7",1,"1,2,4,5","1,3,4,8,7",4,4,5,5,8,"1,2,3,6","1,2,4","1,3,6","1,3,4,8,7","1,4,8,7",6,"4,5,8,7",,,Not for code specifically.,"Some potential impacts are the model developers taking credit for a programmer’s work, or the programmer’s work being misrepresented. For the user, the model may display inaccurate code just because that was the most widely available version in the training dataset.","Representation and fairness are important to ethically sourced code generation. LLMs may generate code that isn’t inclusive and unbiased, especially if the training data contains such code. For simple code, it may be a variable like “bool gender” (instead of enum or string), which would suggest gender is binary. For code involving machine learning, the model may be trained on a dataset that only encompasses a small sample of the population. If the sample is biased, and the LLM does not say so, there is a risk of that data being extrapolated too far.","No, I believe existing code generation models and their developers are primarily focused on profit and not ethics.","9,1,7,3,6,2,11,10",,6,3,3,6,3,,1,5,4,3,2,5,5,"1,4,8",,5,No.
+100,1,R_6fhyuaQTCPuyNm9,anonymous,EN,1,1,4,,40,3,2,1,0,3,1,The LLM should be able to point out what are the exact pieces of code that were used as sources for the generation of the code that is provided as an answer to a prompt/question. This is just one example. I suspect that there are many other considerations.,No,2,3,2,1,1,1,"1,2,3,4,5,6","1,4,6","1,2,3,4,5,6","1,2,3,4,5,6","1,2,3,4","1,2,3,4,6","1,2,3,4,8","1,2,5,8","1,2,3,4,5,8","1,2,3,4,5,8","1,2","1,2,3,4,5",4,4,4,5,1,"1,4,5,6","1,2","1,2,3","1,8,7","1,2,3,4,5,8,7","1,2,3","1,4,5",,,"Yes, I am always thinking about that issue.","The training could be done by including leaked code that is originally subject to copyrights, This effectively violates the copyright, which affects the author of the code. Potentially, the users could be liable if they use the generated code.",I dont have an example,"No, I am not aware of any, though I have not use LLMs extensively for code generation.","9,1,7,3,8,6,2,11,10",,4,4,4,4,"2,7",,1,2,4,3,5,4,4,"6,7,9",,4,no
+100,1,R_51vWJoGYtchQm2Y,anonymous,EN,0.9,1,4,,25,3,5,2,1,4,1,"License, ownership, accontability",No,5,2,4,5,5,4,9,9,9,9,9,9,11,11,11,11,11,11,4,3,5,5,8,8,8,8,6,6,6,6,,,N/A,"Legal issues in case of accidents (who is accountable?), human developers not getting the recognition or compensation they deserve",N/A,"Maybe only the open ones (e.g., Llama), but still partially","9,1,3,8,2,10",,6,6,6,6,"8,6",,3,4,5,1,2,4,4,"7,8",,3,No
+100,1,R_6Zp6FQgp3iIcxMd,anonymous,EN,0.8,1,2,,5,5,4,2,1,3,2,"Source of training and fine-tuning data, compensation for data annotation workers",No,4,4,5,4,4,4,1,"1,4,5,6",9,9,"1,2,3,4,5",1,"1,2,3,4",11,11,11,"1,2,3,4,5,8",11,2,4,5,5,"1,2",8,8,8,"1,2,3",6,6,6,,,No,Unsafe and/or unlicensed code,No,No. One cannot acertain that only public domain and/or open-sourced code is used in the training/fine-tuning of models.,"9,1,2,10",,1,1,6,6,"2,7",,1,2,4,5,3,4,4,"7,8",,5,No
+100,1,R_5gOCMoLcOBCOlky,anonymous,EN,0.9,1,4,,16,4,2,3,3,3,2,"The source of data used to train the code generation models; the model training processes; the code generation processes (i.e., model inference).",No,5,3,5,5,5,2,"1,3,4","1,3,4,6","1,2,3,4,5,6","1,2,3,4,6","1,2,3,4,6","3,4",11,11,11,11,11,11,5,3,4,4,8,8,8,8,6,6,6,6,,,"In all uses of code generation models, I think ethically sourced code generation models are needed.","Security issues: hackers may leave backdoors in the training data to achieve adversarial goals. IP issues: IPs of code may not be respected. Privacy issues: some privacy information in certain code (e.g., sensitive configuration information) may be exposed.","For example, low quality or contamination in the training data could lead to the generation of seemingly correct but in fact faulty code, wasting developers' time in debugging. Some developers of the training code could risk exposing their sensitive information (e.g., account info) unintentionally embedded in the code.",I am not aware of any such tool.,"9,1,7,3,6,2,11,10",,2,4,5,4,5,,1,2,5,3,4,5,5,"3,4,7,8,9,10",,4,No
+100,1,R_5s0Fi1mVHsT4T9l,anonymous,EN,1,1,4,,18,5,50,1,3,3,1,"This includes training data quality and curation standards to avoid buggy, insecure, or low-quality code in datasets while respecting intellectual property and licensing requirements. The generation process itself must incorporate clear prompt engineering to prevent ambiguous outputs, well-designed agentic workflows for retrieval and testing, security-by-design integration, and bias detection mechanisms. Output quality factors encompass code maintainability, security vulnerability prevention, technical debt minimization, and appropriate human oversight checkpoints. These factors collectively ensure that each step from data sourcing through final code delivery meets ethical and sustainable standards.","Yes, I sometimes encounter unsustainable code or package releases by prestigious academic organizations.",5,5,5,5,5,5,"1,2,3","1,6","2,3,4,5","2,3,4,5","1,2,3,4,5",1,"1,2,3,4",7,"5,8","5,8","1,2",3,5,5,5,5,"1,4",1,1,6,"1,2,3,4,5","2,3,5","1,2","2,4,8",,,"Well, this quite depends, when the codegen model is powerful enough, for example, OpenAI-level model, although not transparent enough, I would still use it for real-world inference purposes.","The software license might not be respected, and the code would be reused in an appropriate manner. Even worse, there are chances to generate buggy codes (that's why we need a platform such as SWE Arena: https://huggingface.co/spaces/SE-Arena/Software-Engineering-Arena :)","This represents a fascinating and relatively unexplored direction that I hadn't fully considered before. A critical dimension is governance and decision-making authorityâ€”who determines the ethical tradeoffs when competing values conflict? While everyone might agree that generated code should be transparent, private, trustworthy, sustainable, responsible, and uncontaminated, these dimensions often conflict in practice.
+ 
+ For example, you cannot achieve 100% transparency and privacy simultaneouslyâ€”making code completely open conflicts with protecting sensitive data or proprietary algorithms. Similarly, creating highly sustainable code may come at significant costs in development time, computational resources, or feature completeness. The challenge becomes even more complex when considering future-proofing: how do you make code sustainable for unknown future requirements without over-engineering or creating unnecessary complexity?","Perhaps no. However, some tools demonstrate stronger practices in certain areas. For example, Anthropic Claude Code demonstrates consideration for security-by-design and refuses to generate malicious code, but lacks comprehensive sustainability metrics or transparent training data standards.","9,1,7,3,8,6,11,10",,6,2,2,2,"2,6,7",,1,3,4,2,5,4,4,"6,9",,5,"Code quality attributes, such as sustainability, might be seen as a technical standard rather than a moral imperative. This is just my personal view for reference."
+100,1,R_5JJjm4Ih2vVLMLT,anonymous,EN,1,1,4,,13,4,2,1,2,1,1,"The security of the generated code, whether the generated code contains a pre-trained corpus, and whether the generated code contains harmful content.",No,5,3,5,5,5,5,1,1,1,1,1,1,1,"2,3",7,"4,8",4,"5,8,7",3,3,2,2,1,1,1,7,1,"1,2",2,4,I feel sustainability is not related to artifacts. It's only related to the model training and serving process.,,No. As long as it functions well and passes the test I don't concern the sources,"Generate buggy code, or violate intellectual properties of other code base","LLM generates buggy code, or directly reuses code from other proprietary codebase",I have no idea because there are few evaluation on existing work,"1,7,3,11,10",,2,1,3,1,"8,2,6",,3,1,5,2,4,3,3,"3,6",,5,No
+100,1,R_79JYDM8bjbmhKcV,anonymous,EN,0.3,1,4,,20,4,7,1,2,2,2,"1. Energy used for inference should not contribute to climate change
+ 2. Data used for training should be collected in accordance with its license and privacy rules
+ 3. Prompting data should not be stored, or should be stored securely, and deleted on demand
+ 4. There should be no discrimination in providing access to AI","Major AI companies like OpenAI and Anthropic have chosen to block access to their models in certain countries where I live and work. This policy creates unfair barriers and can be seen as a discriminatory practice, as it restricts equal access to cutting-edge technologies based solely on location.",5,2,5,2,5,3,"1,2",6,6,"1,2","1,2,6","1,2,6","1,2,3","1,2,3","8,7","1,2,3","1,2,3,4,5,8,7,11","1,2,3,8,7",1,5,5,5,7,"1,2,4,6","1,2,4,6","1,6",9,"1,2,3,8,7","1,2,3,4,5,8,7","1,2,3,4,5,8,7","I do not think social responsibility is relevant to the creating of code models, as the fact that a product does not benefit a community is a not an ethical issue, but a quality issue.",Save as above.,No,"Potential negative impacts:
+ - Violations or licenses
+ - Discrimination
+ - Raise of inequality by limiting access to models","Limiting access to AI in certain counties will raise inequality, discrimination and promote unfair competition practices.","Model families like LLAMA and QWEN are more ethically sourced, however more transparency is desirable.","9,1,7,3,8,6,2,11,10",,6,6,6,6,"1,3,2",,3,2,4,1,5,4,4,12,,5,"I do not know what ""post deployment"" is."
+100,1,R_8fZUKmchakpWAzD,anonymous,EN,1,1,4,,20,4,15,2,2,3,1,"The training data used to create the model (contents, origin, acquisition of data, licensing/copyright of data), carbon footprint of training/tuning/use, hardware for training and use, origin of the code used to train the model, guardrails to prevent misuse of models",Some work on carbon footprint/energy consumption,5,5,4,4,5,4,1,"1,3,4,6","1,3,4,5","1,3,4,5,6",9,"1,2,5","1,2,3,4,5","1,2,3,4,5,8","1,2,3,4,5,8,7","1,2,3,4,5,8,7","1,2,3","1,2,3,4,5,8",4,3,5,5,"1,2,4,5,6","1,6",8,"2,3,4,5,6",6,"1,2,3,4,5",6,6,,,There is always a concern when working with industrial partners about whether the generated code is free from copyrighted/licensed material. They only want to use code that they can claim ownership of in the end.,Carbon footprint is a huge issue that is not really being addressed sufficiently. Fairness and ownership are important too.,Nothing coming to mind,No,"9,1,7,3,8,6,2,11,10",,3,5,3,3,"8,6",,1,4,2,3,5,4,3,8,,4,Nothing comes to mind
+100,1,R_9Mll9Sn5t5uZtW3,anonymous,EN,1,1,4,,10,4,10,1,3,3,1,"license compliance, pii mindfulness",No,3,2,2,3,5,1,"1,2,4","1,6","1,4","1,2,4","1,2,3,4",1,"1,2,3",11,8,"1,2,3,4,5","1,2,3","1,2",3,2,1,4,"1,2","1,3",7,"1,2,3","1,2,3,4,5","1,2,3,4",9,6,"I answered none of the above to labor considerations, because I don't think it is realistic that there will be labor exploitation for developers writing code nor model developers, both of which are compensated handily in practice, not because there are more stages.",If I recall correctly the reasons for none of the above are the same as described above.,No,"Copyright violations, which are bad. To a lesser extent, environmental risks.",Licensing is a fairly straightforward issue. I'm less sure about other issues.,"StarCoder, if I understood correctly, took a lot of care in data curation, making training data transparent, so it is a positive example.","9,1,7,3,6,2,10",,2,2,3,3,"2,6,7",,1,3,5,2,4,3,4,7,,4,No
+100,1,R_1YMs6OYDKUKu62d,anonymous,EN,1,1,4,,15,3,6,2,2,2,2,"mostly where the model is created from an ethical process, e.g., minimizing bias, protecting privacy, and preventing misuse.",no,5,4,4,3,4,5,"1,2,3","1,5","1,2,3,4","1,2,3","1,2","1,5","1,4,5","4,5","4,5","4,5","4,5","1,4,5",4,4,4,2,"1,4",1,1,4,"1,5","1,2,3,5","1,2,3","1,2,3,4,8,7",,,"Yes, I don't think existing popular chat-based LLM-driven coding assistant tools/APIs make ethical parts very clear, so it is unclear if it was safe or legal to use. I assume big companies would have a legal team working on this, so it may be handled well already.","Biased evaluation of the models, misuse of models.",I think they are captured well.,"I don't think closed models could make everything open to everyone. But opensource models, e.g., Starcoder, which are created upon open source data, could be easier to judge.","9,1,6,2,11,10",,6,2,6,2,"1,8,2,7",,1,2,5,4,3,4,3,7,,4,No
+100,1,R_21sTPCYiiqxLrCH,anonymous,EN,1,1,4,,10,4,6,2,2,4,4,"Origin of training data should be in public domain and adhere to existing licenses, models training costs and impact on environment, models inference costs and impact on environment",Not personally,5,3,5,4,4,5,"1,2,6",5,"2,3,4,5,6","1,2,3,4,5,6","1,3,5,6","1,4","1,4,8,7","1,2,3,5","1,2,3,4,5,8,7","1,2,3,5,8,7","1,8,7","1,2,3,5",4,3,4,5,"4,6","1,4,5,6",6,"1,2,3","2,4,5","1,2,3,5","2,3,8,7","1,4,8,7",,,There were rumors the initial versions of GitHub Copilot used training data from private repositories.,"Sensitive data leakage, possible legal repercussions on illegally sourced training data that is not transformative enough, environmental impact of training larger model for longer",They all are relevant in their self-evident way,"No. As far as I am aware, even finetuned models on opensource coding datasets are based on existing models trained on data of unknown origin.","1,7,3,2,11,10",,2,3,6,6,"1,3,7",,1,2,3,5,4,3,3,"7,8,9",,4,"User-Cognitive (effects of reliance on code generation models, dependency)"
+100,1,R_4g8GeY7fcdt6sLf,anonymous,EN,0.4,1,4,,9,4,6,1,3,4,1,The datasets being used for training the data and the licenses of the repositories being used,"Yes, discussing how much code can be generated by a model and the issues of ownership",5,1,3,5,5,2,"1,2,3,4,5,6,9",8,"1,4,5,6","1,2,3,4,5,6,9","1,2,3,4,6","1,6","1,7",1,"1,2,3,4,5,8,7","1,2,3,4,5,8,7","1,8,7","1,2,3,4,5,8,7",4,1,2,4,"1,2,3,4,5,6,8","1,4,6","1,2,3","1,6","1,2,3,4,5,8,7,6","1,2,3","1,2,3,4,5,8,7,6","1,2,3,4,5,8,7,6",I am not sure,,"Yes, this would be in case of companies who have competitors where the solution space is similar. In case of legal disputes (e.g. Oracle vs Google), the risk of having code without traceability that is generated by a code generation model may lead to intellectual property difficulties",Developers will have to track development in order to not have IP scandals,"To me traceability and sustainability are important as the former allows to give some trust into the generation while the latter makes developers focused on creating efficient systems for model development, alongside it being ethically sourced",I do not think there is such a tool currently,"9,1,3,6,2,11,10",,3,5,3,3,"2,7",,2,3,4,5,1,4,4,"2,7,8,9",,4,No
+100,1,R_5rOAjbxhB7W7Ieu,anonymous,EN,1,1,4,,5,4,4,2,2,2,1,"The training data source, the functionality of output code.",No,4,2,4,3,4,2,"1,2",9,9,"1,2,4","1,2","1,2",1,4,"1,3","5,8,7",1,1,4,4,4,2,6,"1,3","1,3","5,6",7,"1,2,3,4","1,2,3,4","4,5,8,7",,,When the code from adversarial sources.,Users get vulnerable code.,No,"Based on my experience, I havenâ€™t encountered unethical outputs from the models so far. However, the data collection process is concerning. I believe these models have already scraped a large amount of data from the internet without the authorsâ€™ consent. While this practice conflicts with the idea of ethically sourced code generation, itâ€™s currently difficult to avoid.","9,7,6,11,10",,2,2,3,3,"1,3,8",,1,2,4,3,5,4,3,"8,9",,4,No
+100,1,R_8343dcoK8VYLqZb,anonymous,EN,0.2,1,4,,30,3,2,3,3,5,1,"Ethically sourced products have paid fair wages, did not pollute etc.",The question is really wrong here. You don't know rhe meaning of ethically sourcing things. Nobody enounters problem of ethically sourcing chocolate when *buying* a bar of chocolate (which is your question as you ask about generation of code). They meet it at *producing* it and in your example would be training and not working with,5,5,1,5,5,4,"1,2,3,4","1,2,3,4","1,2,3,4","1,2,3,4","1,2,3,4","1,2,3,4","1,2,3,4,5","1,2,3,4,5","1,2,3,4,5","1,2,3,4,5","1,2,3,4,5","1,2,3,4,5",5,3,5,4,"1,2,3,4","1,2,3,4","1,2,3,4","1,2,3,4","1,2,3,4,5","1,2,3,4,5","1,2,3,4,5","1,2,3,4,5",,,Use of common sources for training. See the next question for an answer.,The tragedy of the commons. Less and less people will.contribute to the commons and then the overall quality will decline as the code generated by the models will start entering into the common pool and the model will start eating its own food as if it was independly generated without realizing,Exploting people communal respurces to make money is an example of practices that fair trade tries to address,None,"9,3,2,4",model quality. see previous input. this is exactly the same as it is happening in chocolate. companies are replacing cacao butter with other oils,1,1,4,4,5,,2,4,5,3,1,5,3,3,,3,Confusing production with generation
+100,1,R_1wv1XV5XLvooQmt,anonymous,EN,1,1,9,,9,5,8,1,3,2,2,"Security, decoupling",No,4,3,4,4,5,4,1,"1,6",9,6,"1,4",1,11,"1,2,3,5",8,"2,3,5,7","1,7","1,2,3,5",4,2,4,4,8,6,1,"1,6","1,2,3","1,2,3,7","1,2,3",6,,,"Yes, when generating some shell script code, it will feel insecure and I will perform a code review","1. unemployment, 2. software security concerns, 3. irrational code generation increasing software maintenance code costs",No,No,"9,1,7,3,8,2,10",,1,2,2,6,"2,6",,1,4,5,2,3,5,5,"1,3,7,8,9",,4,No
+100,1,R_5NsmXpKRrkR8Pkt,anonymous,EN,1,1,2,,8,5,10,1,3,3,2,"Whether the training data was improperly sourced from private or enterprise repositories; and whether the training was conducted using legitimate computing resources, rather than using compromised (botnet) machines.",No,5,2,5,2,5,1,9,"4,5,6",9,"1,2,4",9,8,11,3,11,11,"1,2,3,4,5",10,3,3,5,3,"1,2,4,5,6","1,4,5","1,2,4,5,6",1,"1,2,3,4,5","1,2,3","1,2,3,4,5","4,5,8,7",Exposed APIs,Open source model redistribution,No,Privacy Leaks. Private repositories or corpus with property rights protection are used for training and can be easily generated by the model.,No,"No. Basically, they are not open and transparent, and a large number of models are suspected of leaking private data.","9,1,10",,2,2,5,6,"2,7",,1,3,4,5,2,4,4,"2,3,6,7,8,9,10",,5,No
+100,1,R_6ONrKFGeY8wotYR,anonymous,EN,0.7,1,1,,4,5,20,2,3,4,4,Opt in consent.,"Yes, I was debating whether I should train on a specific dataset I had gathered when I realized I could ask the source of the data if they were okay with the training before I did it.",5,4,5,5,5,4,"1,2,3,4","1,2,6","1,2,3,4,5,6,9","1,2,3,4,5,6,9","1,2,4","1,2,6","1,2,8,7","1,2,3,4,5,8,7,11","1,2,3,4,5,8,7,11","1,2,3,4,5,8,7,11","1,2,3,4,5,8,7,11","1,2,3,4,5,8,7,11",5,3,5,5,"1,2,5,6","1,2,3","1,2,3,4,5,6,8","1,2,3,4,5,6,8","1,2,3,4,5,8,7,6","1,2,3,4,5,8,7,6","1,2,3,4,5,8,7,6","1,2,3,4,5,8,7,6",,,"In school, many people would use ChatGPT without any sourcing and get called out when it hallucinated false information.","Exploitation of developers work, monopolization of generative AI, and less diversity in outputs.",My friend is a very good artist and has been affected very negatively by AI Generated art. Her and I have discussed for a very long time about how it's not okay to use people's work without their consent being freely and willingly given because otherwise the use of their work is theft.,OLMo2 uses ethically sourced data and doesn't use data without consent while still getting very good performance. They also list all the licenses of which they are using the data under.,"9,1,3,6,11,10",,5,5,5,5,5,,2,3,5,4,1,3,3,12,,5,No.
+100,1,R_2rCSuYQxs0wNUy2,anonymous,EN,0.3,1,1,,6,2,3,5,0,4,4,Recurring financial compensation to authors of input training data based on license fees,"All AI models based on web scraping are inherently unethical, so yes.",5,5,5,5,5,5,9,9,9,9,9,9,11,11,11,11,11,11,5,4,5,5,8,8,8,8,6,6,6,6,,,No,"Exploitation of labor, more projects being closed source to avoid scraping etc",No,No,"9,1,7,3,8,6,2,11,10",,5,5,5,5,5,,2,3,1,4,5,3,3,12,,5,No
+100,1,R_8XaiuHzyZCyvrQE,anonymous,EN,0,1,4,,20,4,5,3,2,3,2,"Source code used to train the model should only be obtained with explicit permission from developers, where the license is fully permissive or in the public domain, i.e., not GPL, and where the dataset is made public so the public can critique the training data.","Yes. In some cases, I have not had confidence that the generated code did not require attributing code that was licensed under a non-permissive FOSS license.",5,5,5,4,5,5,"1,5","1,3,4,5,6","4,5,6",9,9,9,"1,2,5,8,7","1,2,3,4,5,8,7,11","1,5,8,7",11,11,11,3,4,5,5,8,8,8,8,6,6,6,6,,,"All LLMs and code generation tools are in legal limbo as it is unclear whether the collection of data, the training of the model, and the generating of output falls under fair-use. Also, in different countries. Additionally, the push to integrate these models into areas where they aren't necessary means that their environmental and social impact is easier to amplify. For example, I don't know the impact of using GitHub Copilot to review a PR. Is it more environmentally friendly for me to review the PR myself?","Software will become more closed as developers will realise that their code will land up in a LLM if they make it public. Furthermore, users of software may be reluctant to use it if they aren't sure if it is ethically created. For example, what about IP violations, copyright violations, and social impacts of the software?","I don't feel comfortable sharing my own code online as I don't want it used by a large company in their LLM when it will (1) generate more pollution, (2) take away jobs from software developers, and (3) potentially violate the license under which I published by code.","I am glad that some people are creating software datasets where users can opt to remove their repos, though it should have been opt-in and not opt-out. Some companies have looked at small models, but they haven't become popular. This means that most code generation requires power-hungry hardware.","9,7,2,10",,2,6,5,3,5,,2,3,5,4,1,4,5,"3,4,9",,5,No
+100,1,R_7hmfnlkvPiXWf3v,anonymous,EN,0.3,1,4,,3,4,4,1,2,1,1,"1. If the code is not self-authored, its source should be clearly disclosed.
+ 2. The quality of the generated code should be ensured.
+ 3. Developers should be familiar with and understand the code that is generated.",No,4,4,4,4,4,3,9,9,9,9,9,9,11,11,11,11,11,11,3,3,2,2,8,8,8,8,6,6,6,6,,,No,"Unethically sourced code generation could lead to legal risks, security vulnerabilities, and low-quality code.
+ For developers, it may damage reputation and violate licensing terms.
+ For users, it could result in unreliable software and hidden dependencies.","Some tools generate code copied from public repositories without clear attribution, which raises concerns about licensing and ownership. This shows the importance of transparency and traceability in ethically sourced code generation.","Most tools still lack full transparency and licensing clarity. However, tools that provide citation, allow opt-outs for training data, or offer explainability features are moving in the right direction. I donâ€™t think any tool fully meets the ethical standard yet, but some are making progress.","9,1,7,3,6,11,10",,2,2,2,1,"1,3,8,2,6",,1,2,4,3,5,4,3,11,,4,No
+100,1,R_8ydrGlZcCbzwI4D,anonymous,EN,0,1,1,,15,4,2,4,2,3,4,"Models should only be trained on code voluntarily offered up by developers, on an opt-in basis, and never scraped without consent, including even MIT licensed open source code, which was released as such before the proliferation of LLMS.",No.,5,4,3,5,5,4,"1,2,3","1,2,3,4","2,3,4","1,2,3,4","1,2,3","1,2,4,5,6","1,5","1,2,3,4,5,8,7,11","2,8,7","1,2,3,4,5,8,7,11","1,2,3","1,4,5",5,2,5,4,"1,2,3,4","3,5,6","1,2","1,2,4",1,"2,3,4,5","1,2","1,2,4,5",,,"No specific example, but this is a general concern.","Intellectual property theft. The further fueling of dishonst narratives in an attempt to undermine skilled labour. Downward pressure on quality and standards at the expense of users. The introduction of additional security exploits. Further monopilisation, and exacerbated inequality.","AI companies continuously scraping data, stealing intellectual property, ignoring explicit instructions not to (e.g. robots.txt), and running up hosting expenses for the privilage! Externalising the cost of their theft.",No.,"9,1,7,6,2,11,10,4","Further issues, as previously stated.",1,5,5,6,5,,1,4,5,3,2,3,3,8,,5,"Details around serious regulation, which is sorely needed."
+100,1,R_8jXQJBTj3xGS41P,anonymous,EN,0.5,1,1,,18,2,4,5,0,4,3,"Where does the training data come from, and what kind of energetic input is needed for training the data and further generation of code.","Yes, lack of transparency from big models on where the data is sourced from. Does it use source code protected by licenses meant to keep the code open to the community, such as GPL/AGPL?",5,5,4,4,5,3,1,1,6,"4,5,6",1,1,"1,4,8","1,4,8","1,2","1,2","1,4,8",1,5,3,4,5,8,4,8,8,6,"8,7",6,6,,,"Yes, most of the ChatGPT usage is unclear where the model gets its trained code, and therefore it is unclear if it's licensed in any particular way.",Users could be ultimately legally responsible for violating code licenses that they are not aware of.,"When using a 3rd party library, it is often important to make sure that the license on that library is compatible with the library in the project, specially when the project is a for-profit closed-source one. In the same way, it is important to know where the code comes from in code generated by models.",No,"1,7,2,11",,3,4,5,6,"2,7",,2,1,3,5,4,3,2,8,,5,No.
