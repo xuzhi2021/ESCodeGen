@@ -6,15 +6,15 @@
 
 
 
-**appendix - general search list.csv:** 100 papers of general search.
+**appendix - general search list.csv:** 100 papers from Cross-disciplinary General Literature Search.
 
 
 
-**appendix - relevant paper 45 (general).csv:** 45 relevant papers from general search. Containing labeled dimensions, and relevant phases indicating the dimensions. 
+**appendix - relevant paper 45 (general).csv:** 45 relevant papers from Cross-disciplinary General Literature Search. Containing labeled dimensions, and relevant phases indicating the dimensions. 
 
 
 
-**appendix - specific search list.csv:** 194 papers from specific search. If you filter out those with exclude=1, you will get 136 candidate paper. If you check those with selected=1, you will get 17 relevant papers where we snowball on.
+**appendix - specific search list.csv:** 194 papers from Domain-Specific Literature Search. If you filter out those with exclude=1, you will get 136 candidate paper. If you check those with selected=1, you will get 17 relevant papers where we snowballed on.
 
 
 
@@ -65,6 +65,11 @@ The complete survey we sent to participants.
 
 
 **appendix2 - acceptable trade-offs.csv:** The specific analytic data for Figure 6 (To what extent trade-offs are considered acceptable) in the paper.
+
+
+
+**appendix2 - post-survey data.csv:** The analytic data for post-survey questions (whether the survey improved their understanding of ES-CODEGEN, whether the survey made them feel that the ethical sourcing issues are more important, generalizability of our definition(dimensions), and the dimensions they tended to ignore).
+
 
 
 ## **"figures" folder:**

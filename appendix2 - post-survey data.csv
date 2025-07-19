@@ -1,0 +1,22 @@
+,Storngly disagree,Disagree,Neutral,Agree,Strongly agree
+"Q: After completing this survey, do you feel that your understanding of ethically sourced code generation has improved?",0%,0%,25%,56.30%,18.80%
+Q: Has this survey made you feel that the issues of ethically sourced code generation are more important than you previously thought?,0%,3.10%,37.50%,43.80%,15.60%
+,,,,,
+,Definitely no,Probably no,Not sure,Probably yes,Definitely yes
+"Q: Do you think the dimensions and definitions discussed in this survey could be generalized to other fields beyond code generation (e.g., image generation, voice generation)?",0%,0%,9.40%,46.90%,43.80%
+,,,,,
+,,,,,
+Q: Which of the following dimensions do you realize that you have ignored before you taking this survey? (Please select all that apply.) ,The percentage of the selection,,,,
+"Society-Social Acceptability (Religion, Culture)",56.30%,,,,
+Society-Social Responsibility (Community Development),46.90%,,,,
+"Society-Labor Right (Fair Wages, Working Conditions, Legal Employment)",46.90%,,,,
+Source-Access (Accessibility),28.10%,,,,
+Source-Integrity (Contamination),25.00%,,,,
+"Environment-Sustainability (Energy Consumption, Emissions and Pollution)",18.80%,,,,
+"Source-Equity (Diversity, Fairness, Representation)",15.60%,,,,
+Source-Accountability (Transparency),15.60%,,,,
+None of above,12.50%,,,,
+"Source-Subject Right (Informed Consent, Privacy)",9.40%,,,,
+"Source-Intellectual Property (Source Acknowledgement, Licensing, Generation Distinctiveness)",6.30%,,,,
+All of above,6.30%,,,,
+Others (please specify),0.00%,,,,
