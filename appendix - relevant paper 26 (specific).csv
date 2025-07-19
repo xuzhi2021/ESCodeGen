@@ -21,7 +21,7 @@ licensing: ”unclear copyright boundaries, and dubious ownership of AI-generate
 informed consent: ""GDPR stipulates that data collected for specific purposes should not be used for others unless the data subject consents. ""
 
 code quality: ""performance relies heavily on quality training data, concerns about the quality and accuracy of generated outputs"""
-Learn to Code Sustainably: An Empirical Study on Green Code Generation,specific search,vartziotis2024learn,environment (energy consumption),"""energy consumption and carbon emissions"""
+Learn to Code Sustainably: An Empirical Study on Green Code Generation,specific search,vartziotis2024learn,"environment (energy consumption, emissions and pollution)","""energy consumption and carbon emissions"""
 The Robots are Here: Navigating the Generative AI Revolution in Computing Education,specific search,prather2023robots,"privacy;
 
 consent
@@ -92,11 +92,11 @@ licensing: ""GitHub copilot uses OpenAI’s codex, which is trained on open-sour
 sustainability: ""may not be as efficient in terms of computational power and network traffic as more mature web services, posing sustainability issues""
 code quality: ""Fake information There might be code that looks convincing but is incorrect or code that is functionally correct but may not achieve the expected or required results"", ""Error information The generated code may contain bugs"""
 Do Generative AI Tools Ensure Green Code? An Investigative Study,specific search,sikand2024generative,"environment (energy consumption, emissions and pollution)","""the generated non-green code could contribute to excess energy consumption and carbon emissions"""
-Can LLMs Generate Green Code - A Comprehensive Study Through LeetCode,specific search,tuttle2024can,energy efficient,"""This paper presents a comprehensive ... in terms of energy consumption and speed, moving beyond traditional accuracy metrics"""
+Can LLMs Generate Green Code - A Comprehensive Study Through LeetCode,specific search,tuttle2024can,energy consumption,"""This paper presents a comprehensive ... in terms of energy consumption and speed, moving beyond traditional accuracy metrics"""
 Empowering Human-Machine Communication in Code Generation with NLP,specific search,aswal2024empowering,fairness,"""minimize bias in NLP-driven code production"""
 WhyGen: Explaining ML-powered Code Generation by Referring to Training Examples,specific search,yan2022whygen,"licensing
-distictiveness","code generators may recite or closely mimic copyrighted training data without user awareness, leading to legal and ethical concerns
-highly similar"
+generation distictiveness","""code generators may recite or closely mimic copyrighted training data without user awareness, leading to legal and ethical concerns
+highly similar"""
 ChatGPT for Software Development: Opportunities and Challenges,specific search,rahmaniar2023chatgpt,"fairness
 privacy
 code quality","""Ethical considerations, especially concerning data privacy""
@@ -104,8 +104,8 @@ code quality","""Ethical considerations, especially concerning data privacy""
 ""AI can provide a different starting point or perspective, but the quality of the final code depends on the skill and judgment of the human programmer."""
 The “Code” of Ethics: A Holistic Audit of AI Code Generators,specific search,ma2024code,"licensing
 code quality
-accountability
-source acknowledgement, disticetiveness","""legal issues of copyright infringement induced by training usage of licensed code“
+transparency
+source acknowledgement, generation disticetiveness","""legal issues of copyright infringement induced by training usage of licensed code“
 ""better generation quality when only generating one code snippet""
 ""publish or provide clear documentation on the training data used for PLG models, including the sources and legal status of the data. These actions will enhance transparency and accountability""
 ""PLG models are capable of generating code that is identical to licensed source code but without the corresponding attribution to the original source coder """
@@ -140,7 +140,7 @@ code quality ""Functional correctness is only one aspect of source code quality;
 licensing: ""filtered the files by the license included in the repository; copyleft licenses were excluded."""
 Using AI Assistants in Software Development: A Qualitative Study on Security Practices and Concerns,specific search,klemmer2024using,"privacy;
 code quality
-licensing, acknowledgement","""A few participants reported that their companies banned AI assistants by policy, but mainly for privacy reasons, as outlined in Section 4.2.2"", ""leaking sensitive data when using third-party AI assistants""
+licensing, source acknowledgement","""A few participants reported that their companies banned AI assistants by policy, but mainly for privacy reasons, as outlined in Section 4.2.2"", ""leaking sensitive data when using third-party AI assistants""
 ""The overall (security) mistrust in AI assistants is primarily due to code quality concerns."" ""small snippets might be dangerous, e.g., when AI hallucinates packages""
 ""returns entire snippets of copyrighted code without any attribution."""
 Reliability Issues of LLMs: ChatGPT a Case Study,"forward snowball from ""From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy""",majeed2024reliability,"transparency;
@@ -211,13 +211,13 @@ code quality: ""Code quality: They may generate code that is stylistically non-i
 
 environment: ""energy usage and climate impacts;"""
 Discriminating Human-authored from ChatGPT Generated Code Via Discernable Feature Analysis,"backward snowball from ""Teaching and learning computer programming using ChatGPT: A rapid review of literature amid the rise of generative AI technologies""",li2023discriminating,"source acknowledgement
-distictiveness
+generation distictiveness
 licensing
 code quality","source acknowledgement: ""acknowledge and credits foundational sources where necessary""
 distictiveness: ""generated code should be sufficiently distinct from existing code""
 licensing: ""These issues could potentially lead to copyright disputes ""
 code quality: ""While this could streamline the code generation process and uphold code quality, it also raises questions regarding innovation and originality in coding"""
-StarCoder: may the source be with you!,"backward snowball from ""Evaluating Social Bias in Code Generation Models""",listarcoder,"data licensing
+StarCoder: may the source be with you!,"backward snowball from ""Evaluating Social Bias in Code Generation Models""",listarcoder,"licensing
 
 consent
 

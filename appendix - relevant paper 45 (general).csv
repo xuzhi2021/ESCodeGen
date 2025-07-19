@@ -1,28 +1,22 @@
 paper title,domain,bib,dimension,phrases indicating the dimension
-Ethically sourced animal cadavers and tissue: Considerations for education and training,Education; Life Sciences,martinsen2007ethically,"social acceptability;
-animal welfare","""students that respect animals' lives are not faced with a learning environment that conflicts with their conscience"";
-""increasing awareness of animal welfare, animals' needs and animal ethics"""
-Ethical sourcing to ensure sustainability in the food and beverage industry and eliciting millennial perspectives,Economy; food and beverage industry,mboga2017ethical,"Social responsibility;
-animal welfare;
-environment;
-labor right (fair wage, working conditions, illegal employment);
-social acceptability;
+Ethically sourced animal cadavers and tissue: Considerations for education and training,Education; Life Sciences,martinsen2007ethically,animal welfare,"""increasing awareness of animal welfare, animals' needs and animal ethics"""
+Ethical sourcing to ensure sustainability in the food and beverage industry and eliciting millennial perspectives,Economy; food and beverage industry,mboga2017ethical,"animal welfare;
+Social responsibility (community development);
+environment (energy consumption)
+environment (emissions and pollution);
+labor right (fair wage, working conditions, legal employment);
 health and safety;
 transparency (in supply chain);
-intigrity;
-","""Social responsibility, animal welfare, and environmental responsibility"";
+","""animal welfare"";
+""The commitment to become a sustainable industry is essential in making a positive impact in our communities""
+""increase of greenhouse gas emissions""
+""company uses tons of energy and raw materials ""
 ""wages and benifit"", ""child labor"", ""working condition"";
-""consumers willing"";
 ""Safe Quality Food"";
 ""supplier transparency"";
-""integrity to meet consumer changing habits""
 "
-Facilitating the ethical sourcing of donor hematopoietic stem cells for cell and gene therapy research and development,medicine,hamad2024facilitating,"legal compliance
-data collection transparency;
-Social Acceptability;
-data privacy","""develop policies that reflect donor values and ensure ethical practices""
-""openness and clear communication regarding how their donated cells are used in research"";
-""Participants placed charitable organizations at the very top of this hierarchy"";
+Facilitating the ethical sourcing of donor hematopoietic stem cells for cell and gene therapy research and development,medicine,hamad2024facilitating,"transparency;
+privacy","""openness and clear communication regarding how their donated cells are used in research"";
 ""concerns over privacy, security of genetic material"""
 "Consent Is Dead, Long Live Ethical Oversight: Integrating Ethically Sourced Data into Demonstrated Consent Models",biomedicine; bioethics,belisle2025consent,"Diversity
 consent;
@@ -30,21 +24,23 @@ Privacy
 Transparency
 Fairness
 Representative
-Sustainability
+energy consumption
 Accessibility","""Ethical integrity and accountability: Ensuring that data practices uphold consent, transparency, and diversity"";
 ""informed consent, clear"";
-""communication regarding data use"";
 ""Minimizing bias"";
 ""ensuring that datasets are representative to avoid reinforcing systemic inequities"";
-""environmental impact of data storage"";
+""energy-efficient consensus mechanisms,"";
 ""The technical requirements—such as reliable
 Internet access, digital literacy, and compatible devices—could exclude individuals in resource-limited settings or under-resourced populations"";"
-A greater share of the stomach? Role of provenance and ethical standards on consumers' food choices and purchasing intentions,Economy; Food industry,soon2018greater,"environment;
+A greater share of the stomach? Role of provenance and ethical standards on consumers' food choices and purchasing intentions,Economy; Food industry,soon2018greater,"energy consumption;
+emissions and pollution
 animal welfare;
-accountability;
-social acceptability","""Provenance and ethical standards reflect foods that traceable and are supportive of the environment, sustainability and justice in the food supply chain"";
-""tracable"";
-""Eating non-ethically sourced food products is against my moral principles"""
+transparency;
+fair trade","""reduces energy consumption"";
+""Carbon Foorprint""
+""animal welfare""
+""traceability"";
+""fair trade"""
 Ethical animal use in education and training: From clinical rotations to ethically sourced cadavers,Education; medicine and biological science,jukes2014ethical,"animal welfare;
 consent","""the highest ethical, welfare, health and safety standards""
 ""Client donated, if a companion animal"""
@@ -52,67 +48,60 @@ Who owns your voice? Ethically sourced voices for non-commercial TTS application
 informed consent;
 representative;
 Intellectual Property Rights (IPR), license;","""privacy issues"";
-""lack of informed consent"";
+""lack of informed consent"",""opt-in"";
 ""varied and representative TTS voices for use by other communities"";
-""ownership rights"", ""copyright or patent to one's voice"",""opt-in"";"
+""ownership rights"", ""copyright or patent to one's voice"";"
 Ethical Sourcing in the Global Food System,food industry; economy,barrientos2012ethical,"fair trade;
 labor right (working conditions);
 equity","""fair trade"";
 ""decent working condition"";
 ""Ethical Trade: What Does It Mean for Women Workers in African Horticulture?"""
-Ethical sourcing: An analysis of the literature and implications for future research,Business Ethics;  supply chain management,kim2018ethical,"social responsibility
-labor right (fair wage)
-fair trade","""integrating the corporate social responsibility (CSR) concept into sourcing operations"";
-""low wage"";
+Ethical sourcing: An analysis of the literature and implications for future research,Business Ethics;  supply chain management,kim2018ethical,"labor right (fair wage)
+fair trade","""low wage"";
 ""Starbuck’s unfair trade scandal in the early 2000s, which was blamed for making huge profits at the coffee grower’s expense"""
 Ethical sourcing: a contribution to sustainability or a diversion?,economy,blowfield2000ethical,"fair trade;
-environment","""fair trade"";
-""sustainability"""
+energy consumption
+emissions and pollution","""fair trade"";
+"" environmental impact assessment and energy and materials accounting ""
+""waste and pollution management"""
 Supply chain specific? Understanding the patchy success of ethical sourcing initiatives,economy; supply chain,roberts2003supply,environment;,"""do not contribute to environmental degradation"""
 The influence of ethical values and food choice motivations on intentions to purchase sustainably sourced foods,economy; food industry,dowd2013influence,"fair trade;
 animal welfare;
 labor rights;
 health and safety","""fair trade"";
 ""animal welfare"";
-""labor rights"";
-""health"""
-The influence of ethical culture on supplier selection in the context of sustainable sourcing,economy; supply chain,goebel2012influence,"environment
-social responsibility;
-labor rights;
+""human rights are not violated"";
+""Of the food motives variables, only ethical values and health were significant. """
+The influence of ethical culture on supplier selection in the context of sustainable sourcing,economy; supply chain,goebel2012influence,"environment (energy consumption)
+emissions and pollution
+labor rights (working conditions, legal employment);
 health and safety;
 equity;
 diversity;
-fairness;","""environmental sustainability""
-""socially responsible buying"";
-""human rights"", ""labor equity"";
+fairness;","""environmental sustainability"", ""energy consumption and increase in resource efficiency""
+""reduction of CO2 emissions""
+""labor conditions"", ""labor equity"", ""employing children"";
 ""healthcare, safety"";
 ""labor equity"";
 ""diversity"";
 ""fairness"";"
-Ethical Sourcing of Raw Materials,economy; Cosmetics Industry,pulverail2013ethical,"environment;
+Ethical Sourcing of Raw Materials,economy; Cosmetics Industry,pulverail2013ethical,"environment (energy consumption);
 social responsibility (community development);","""biodiversity"", ""renewable energy and waste management"";
 ""stimulate the development and wellbeing of communities"""
-Fast fashion or clean clothes? Evaluating consumer demand for ethically sourced apparel,economy,ravi2025fast,"social acceptability;
-labor right (fair wage, illegal employment);
+Fast fashion or clean clothes? Evaluating consumer demand for ethically sourced apparel,economy,ravi2025fast,"labor right (fair wage, legal employment);
 environment;
-fair trade","""consumer preference"";
-""labor rights protection"",""baseline labor standards like child labor, forced overtime and minimum wages "";
+fair trade","""labor rights protection"",""baseline labor standards like child labor, forced overtime and minimum wages "";
 ""environmental protection"";
 ""fair trade"""
 Using ethically sourced training aids for human remains detection dog training,forensic (medicine,dargan2024using,"informed consent ;
-legal compliance;
 animal ethics;","""with the consent of living individuals”, ""voluntary donations"";
-""materials are obtained with dignity, respect, and legal compliance"";
 ""ethics approval"";"
-Luxury marketing strategies related to ethical sourcing,economy; Luxury marketing,holmsten2017luxury,"social acceptability;
-environment","""consumer preference"";
-""Current production is unsustainable from a resource, pollution and biodiversity perspective"";"
-From banking to international governance: fostering innovation in stem cell research,,isasi2011banking,"consent;
+Luxury marketing strategies related to ethical sourcing,economy; Luxury marketing,holmsten2017luxury,"environment (energy consumption, emissions and pollution, biodiversity)","""Current production is unsustainable from a resource, pollution and biodiversity perspective"", ""renewable energy, carbon management"";"
+From banking to international governance: fostering innovation in stem cell research,"biology;
+medicine",isasi2011banking,"consent;
 privacy;
-availability
 accountability (transparency)","""informed consent and
 privacy"";
-""availability"";
 ""promote transparency, stewardship, and accountability to generate public support and trust."""
 Leading the transition to ethical human body sourcing in Africa: The South African experience,"medical; 
 Anatomy (medicine",billings2024leading,"informed consent;
@@ -122,7 +111,7 @@ Social acceptability (religion)","""informed consent"";
 ""integrating cultural and religious needs"", ""traditional religions and the belief"";"
 A Transparent New World: Ethically Sourced Mineral Supply Chain,economy; Mineral Supply Chain,williams2020transparent,"enviornment(emissions and polution);
 transparency;
-labor rights;
+labor rights (ilegal employment);
 social responsibility","""such as causing deforestation or chemical pollution"";
 ""Lack of Transparency in Mineral Supply Chain""
 ""child labor or forced labor"";
@@ -131,20 +120,18 @@ Certifying biodiversity: The union for ethical biotrade and the search for ethic
 Shareholder value effects of ethical sourcing: comparing reactive and proactive initiatives,economy,kim2022shareholder,"transparency (supply chain);
 social responsibility (community development);
 animal ethics (welfare);
-environment (other);
 Labor Rights(ilegal employment, working condition, unfair wage);
 diversity (in teams/ suppliers, but not so clear);
-economy;","""make the supply chain more transparent"";
+economy (fair trade);","""make the supply chain more transparent"";
 ""corporate social responsibility"", ""facilities in the suppliers’ local communities"";
 ""animal welfare"";
-""environment"";
 ""child labor"", ""unfair treatment toward their coffee farmer"", ""poor working conditions"", ""human rights and health/safety into suppliers"";
 ""diversity"";
 ""fair trade"";"
-Sustainability and Ethical Considerations in Product Management,product management,"sanghavi13sustainability,","environment (eco-friendly, resource usage, and emissions);
+Sustainability and Ethical Considerations in Product Management,product management,"sanghavi13sustainability,","environment (energy consumtption, emissions and pollution);
 social responsibility (equity);
-transparency in supply chain;
-economy;
+transparency;
+economy (fair trade);
 labor rights (fair wages, working condition);","""environmentally responsible"", ""eco-friendly product"", ""reduce waste and emissions"", ""reduces environmental impact"";
 ""social equity"";
 ""Supply Chain Transparency"", ""clear visibility"";
@@ -178,7 +165,7 @@ Early AI lifecycle co-reasoning: ethics through integrated and diverse team scie
 bioethics","pacia2024early,","fairness in data collection;
 data availability;
 transparency (AI framework);
-diversity in team / working environment;
+diversity in team;
 equity;
 data collection (representation, and generalizability);","""fair decision-making and epistemic justice ... during data collection"";
 ""accessible"";
@@ -190,11 +177,11 @@ Stakeholder perspectives on ethical and trustworthy voice AI in health care,"med
 voice","belisle2024stakeholder,","fairness (data collection); 
 diversity (data collection); 
 data pricacy; 
-environment responsibility in data storage (energy consumption); 
+environment (energy consumption); 
 social acceptability (culture)
 transparency (Data collection); 
 informed consent; 
-data collection representation ; 
+representativeness (data collection) ; 
 accuracy (quality)","""Treating data subjects fairly"", ""free from bias and discrimination"", ""bias concerns in data collection and utilization"", "" biases and disparities"";
 ""diverse representation"", ""inclusive"";
 ""ensure data is stored securely, protecting individuals’ privacy and personal information"";
@@ -208,19 +195,17 @@ and oversampling from diverse groups to ensure proper representation. ""
 Investigating the Use of Companion Animal Donor Tissue Banks,"Bioethics;
 Veterinary Medicine;
 Education; medicine and biological science","mitchell2024investigating,","informed consent
-social acceptability (conscience);
+social acceptability;
 animal welfare;","""client-donated"";
 ""morally acceptable"";
 ""animals experience both acute and prolonged pain as well as the discomfort and pain of disease"""
 Merging Blockchain and Augmented Reality for an Immersive Traceability Platform,supply chain; digital platform,fiore2024merging,"environment;
-social acceptability;
 transparency","""environmentally friendly"";
-""consumer expectations"";
 ""traceability"";"
 Navigating the Coffee Business Landscape: Challenges and Adaptation Strategies in a Changing World,economy; coffee industry,"peluso2023navigating,","social acceptability (preference) (consumer awareness); 
-environment (eco-friendly, biodiversity, energy usage); 
+environment (biodiversity, energy consumption); 
 economy (fair trade); 
-labor rights ( all 4); 
+labor rights (fair wage, working conditions, legal employment); 
 transparency (supply chain) ","""consumer preferences"", ""Modern coffee enthusiasts, ever more mindful of..."";
 ""Climate change"", ""eco-friendly"", ""promote biodiversity conservation"", ""energy standards"";
 ""fair trade"";
@@ -231,10 +216,8 @@ environment
 social acceptability","""animal walfare"";
 ""environmental protection"",
 ""’The report indicated that consumers were willing to pay up to 20–30% more for ethically sourced foods"""
-Developing an Artisanal Buying Centre System Meeting Ethical Sourcing Criteria,economy,"steenkampdeveloping,","economy;
-transparency in supply chain;
-labor rights (ilegal employment)","“ethically sourced material”;
-""provenance traceability"";
+Developing an Artisanal Buying Centre System Meeting Ethical Sourcing Criteria,economy,"steenkampdeveloping,","transparency in supply chain;
+labor rights (ilegal employment)","""provenance traceability"";
 ""child labour, or other human rights abuses"""
 Korea national stem cell bank,medicine,"kim2021korea,","health / safety (medicine);
 data availability (access);
@@ -245,9 +228,11 @@ The Halal Positive List: Streamlining the Path to Certification,"religion; Ingre
 evaluation; Halal
 certification","alzeer2025halal,","social acceptability (religion);
 safety (food);
-transparency (supply chain)","""Halal certification, a crucial religious guideline for Muslims"";
+transparency (supply chain)
+contamination","""Halal certification, a crucial religious guideline for Muslims"";
 ""ingredient safety"";
-""the need for extensive traceability"""
+""the need for extensive traceability""
+""ensure that all raw materials are sourced from halal-certified suppliers and inspect production lines to ensure no cross-contamination between halal and non-halal products."""
 Humane innovations in veterinary anatomy education in India,Medical and Education; animal,"puppala2021humane,","animal welfare;
 informed consent;","""Animal welfare encompasses both the physical and psychological states of the animal"";
 ""with the client signing the euthanasia consent form"", ""Willed-Body Programme ... donated cadavers "";"
@@ -276,7 +261,7 @@ informed consent; ","""diverse"", ""well-balanced"";
 ""Personally Identifiable Information (PII) from the dataset and anonymize it. The raw data is kept on secure servers with strong access restrictions to prevent any malicious usage."";
 ""users’ informed consent"""
 GREEN BEAUTY: THE GROWING DEMAND FOR ORGANIC COSMETICS,"Organic Cosmetics;
-beauty products; chemistry",ameta2024green,"environment (emission, biodiversity); 
+beauty products; chemistry",ameta2024green,"environment (emissions and pollution, biodiversity); 
 transparency (supply chain); 
 economy (fair trade); 
 social responsibility (community development); 
@@ -291,7 +276,7 @@ animal welfare; ","""environmental and health impacts"", ""eco-conscious consume
 ""Animal welfare"", ""Cruelty Free production and testing"";"
 Unveiling Sustainability in ecommerce: GPT-Powered software for identifying sustainable product features,"economy, ecommerce, sustainability, AI application; software",roumeliotis2023unveiling,"environment (sustainablily, pollutions and emission, energy consumption);
 fair trade;
-labor right (fair wage, working condition, illegal employment);
+labor right (fair wage, working condition, legal employment);
 social responsibility (community development);
 transparency;
 health/safety;
@@ -307,7 +292,7 @@ transparency;
 fairness (fair trade);
 integrity (honestly);
 accountability;
-human / labor rights","""environmental sustainability"";
+human / labor rights (fair wage, working conditions, legal employment)","""environmental sustainability"";
 ""social responsibility"";
 ""Transparency: Ensuring that procurement processes are open and transparent, enabling all parties to understand how decisions are made.""
 ""Fairness: Providing equal opportunities for all potential suppliers and avoiding discrimination or bias."";
@@ -328,7 +313,7 @@ privacy;","""how end-user consented to their data being reused in research"" (fi
 ""manages data access""
 ""sensitive data"", ""data sharing license or agreement""
 ""protect end-user anomymity""(figure 1)"
-From policy to practice: Illustrating the viability of full replacement,"education, veterinary?",martinsen2008policy,animal welfare,"""Freedom from pain, injury and disease"""
+From policy to practice: Illustrating the viability of full replacement,"education, veterinary",martinsen2008policy,animal welfare,"""Freedom from pain, injury and disease"""
 Ethical Requirements for Achieving Fairness in Radiology Machine Learning: An Intersectionality and Social Embeddedness Approach,ML (Radiology Machine Learning,fessenko2024ethical,"fairness;
 diversity in teams
 representative
