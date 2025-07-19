@@ -6,7 +6,8 @@
 
 
 
-**appendix - general search list.csv:** 100 papers from Cross-disciplinary General Literature Search.
+**appendix - general search list.csv:** 100 papers from Cross-disciplinary General Literature Search. If you filter out those with exclude=1, you will get 55 candidate papers. If you check those with selected=1, you will get 45 relevant papers. We also put the related dimensions and phases for the 45 selected paper so that you can check where each dimension first appeared. Among the 100 papers, we found that after reading the top 51 papers, no new dimensions emerged.
+
 
 
 
@@ -14,15 +15,15 @@
 
 
 
-**appendix - specific search list.csv:** 194 papers from Domain-Specific Literature Search. If you filter out those with exclude=1, you will get 136 candidate paper. If you check those with selected=1, you will get 17 relevant papers where we snowballed on.
+**appendix - specific search list.csv:** 194 papers from Domain-Specific Literature Search. If you filter out those with exclude=1, you will get 136 candidate papers. If you check those with selected=1, you will get 17 relevant papers where we snowballed on.
 
 
 
-**appendix - snowball backward (after searching).csv:** 258 papers got by searching keywords on 1037 candidate papers from backward snowballing. If you filter out those with exclude=1, you will get 160 candidate paper. If you check those with selected=1, you will get 8 relevant papers.
+**appendix - snowball backward (after searching).csv:** 258 papers got by searching keywords on 1037 candidate papers from backward snowballing. If you filter out those with exclude=1, you will get 160 candidate papers. If you check those with selected=1, you will get 8 relevant papers.
 
 
 
-**appendix - snowball backward (after searching).csv:** 251 papers got by searching keywords on 7056 candidate papers from forward snowballing. If you filter out those with exclude=1, you will get 132 candidate paper. If you check those with selected=1, you will get 1 relevant papers.
+**appendix - snowball backward (after searching).csv:** 251 papers got by searching keywords on 7056 candidate papers from forward snowballing. If you filter out those with exclude=1, you will get 132 candidate papers. If you check those with selected=1, you will get 1 relevant paper.
 
 
 
@@ -30,7 +31,7 @@
 
 
 
-**appendix - taxonomy and citations.csv:** complete list of references for each aspect under the dimensions.
+**appendix - taxonomy and citations.csv:** complete list of references for each aspect under the dimensions. We also added a column ``first appeared in which general paper''.
 
 
 
