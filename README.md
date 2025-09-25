@@ -2,7 +2,7 @@
 
 
 
-## Files with **prefix "appendix"** are materials about the literature review:
+## Files in folder **"Appendix1-Literature-Review"** are materials about the literature review:
 
 
 
@@ -45,7 +45,7 @@ The complete survey we sent to participants.
 
 
 
-## Files with **prefix "appendix2"** are materials about the survey results:
+## Files in folder **"Appendix2-Survey"** are materials about the survey results:
 
 
 
