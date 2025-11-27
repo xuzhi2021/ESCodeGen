@@ -6,7 +6,7 @@
 
 
 
-**appendix - general search list.csv:** 100 papers from Cross-disciplinary General Literature Search. If you filter out those with exclude=1, you will get 55 candidate papers. If you check those with selected=1, you will get 45 relevant papers. We also put the related dimensions and phases for the 45 selected paper so that you can check where each dimension first appeared. Among the 100 papers, we found that after reading the top 51 papers, no new dimensions emerged.
+**appendix - general search list.csv:** 100 papers from Cross-disciplinary General Literature Search. If you filter out those with excluded=1, you will get 55 candidate papers. If you check those with selected=1, you will get 45 relevant papers. We also put the related dimensions and phases for the 45 selected paper so that you can check where each dimension first appeared. Among the 100 papers, we found that after reading the top 51 papers, no new dimensions emerged.
 
 
 
@@ -15,15 +15,15 @@
 
 
 
-**appendix - specific search list.csv:** 194 papers from Domain-Specific Literature Search. If you filter out those with exclude=1, you will get 136 candidate papers. If you check those with selected=1, you will get 17 relevant papers where we snowballed on.
+**appendix - specific search list.csv:** 194 papers from Domain-Specific Literature Search. If you filter out those with excluded=1, you will get 136 candidate papers. If you check those with selected=1, you will get 17 relevant papers where we snowballed on.
 
 
 
-**appendix - snowball backward (after searching).csv:** 258 papers got by searching keywords on 1037 candidate papers from backward snowballing. If you filter out those with exclude=1, you will get 160 candidate papers. If you check those with selected=1, you will get 8 relevant papers. It also contains a column "snowballing source title" indicating where each paper is snowballed from.
+**appendix - snowball backward (after searching).csv:** 258 papers got by searching keywords on 1037 candidate papers from backward snowballing. If you filter out those with excluded=1, you will get 160 candidate papers. If you check those with selected=1, you will get 8 relevant papers. It also contains a column "snowballing source title" indicating where each paper is snowballed from.
 
 
 
-**appendix - snowball backward (after searching).csv:** 251 papers got by searching keywords on 7056 candidate papers from forward snowballing. If you filter out those with exclude=1, you will get 132 candidate papers. If you check those with selected=1, you will get 1 relevant paper. It also contains a column "snowballing source title" indicating where each paper is snowballed from.
+**appendix - snowball backward (after searching).csv:** 251 papers got by searching keywords on 7056 candidate papers from forward snowballing. If you filter out those with excluded=1, you will get 132 candidate papers. If you check those with selected=1, you will get 1 relevant paper. It also contains a column "snowballing source title" indicating where each paper is snowballed from.
 
 
 
@@ -79,4 +79,26 @@ Contains Figures 1 to 4 shown in our paper. Figure 2 shown above is the workflow
 
 
 
+## Notes:
+### **Exclusion Criteria for the Literature Review**:
+1. Papers that are either not in English or not published in scholarly journals or conferences (This process is marked as “Exclude” in the workflow)
 
+2. Irrelevant papers that: (This process is marked as as “Select” in the workflow)
+    a. only reflect on the keywords in sections like “Discussion” or “Related Work” instead of discussing the keyword itself
+    b. superficially mention the keywords, but do not focus on ethical sourcing issues
+    
+
+### **Inclusion Criteria for the Literature Review**:
+1. Papers that are in English and already published in scholarly journals or conferences
+2. Papers that are relevant to our topic
+
+
+For the Cross-disciplinary General Literature Search, the keyword set used for excluding irrelevant papers is key1. 
+For the Domain-Specific Literature Search, we used all three sets of keywords (key1, key2, and key3) for excluding irrelevant papers.
+
+**key1 (synonyms of "ethically sourced")**: ethically sourced, ethical sourcing, ethically acquired, ethically procured, ethical acquisition, responsible sourcing, responsibly sourced, sustainable sourcing
+
+
+**key2 (synonyms of "artificial intelligence")**: LLM, AI, artificial intelligence, LLMs, large language models
+
+**key3 (synonyms of "code generation")**: code generation, code creation, generate code, code writing, code production, code correction, code quality
