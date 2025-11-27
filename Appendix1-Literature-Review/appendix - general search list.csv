@@ -1,6 +1,6 @@
-paper title,exclude,selected,domain,dimension,phrases indicating the dimension
-Ethically sourced animal cadavers and tissue: Considerations for education and training,0,1,Education; Life Sciences,animal welfare,"""increasing awareness of animal welfare, animals' needs and animal ethics"""
-Ethical sourcing to ensure sustainability in the food and beverage industry and eliciting millennial perspectives,0,1,Economy; food and beverage industry,"animal welfare;
+paper title,exclude,selected,domain,bib,dimension,phrases indicating the dimension
+Ethically sourced animal cadavers and tissue: Considerations for education and training,0,1,Education; Life Sciences,,animal welfare,"""increasing awareness of animal welfare, animals' needs and animal ethics"""
+Ethical sourcing to ensure sustainability in the food and beverage industry and eliciting millennial perspectives,0,1,Economy; food and beverage industry,,"animal welfare;
 Social responsibility (community development);
 environment (energy consumption)
 environment (emissions and pollution);
@@ -15,10 +15,10 @@ transparency (in supply chain);
 ""Safe Quality Food"";
 ""supplier transparency"";
 "
-Facilitating the ethical sourcing of donor hematopoietic stem cells for cell and gene therapy research and development,0,1,medicine,"transparency;
+Facilitating the ethical sourcing of donor hematopoietic stem cells for cell and gene therapy research and development,0,1,medicine,hamad2024facilitating,"transparency;
 privacy","""openness and clear communication regarding how their donated cells are used in research"";
 ""concerns over privacy, security of genetic material"""
-"Consent Is Dead, Long Live Ethical Oversight: Integrating Ethically Sourced Data into Demonstrated Consent Models",0,1,biomedicine; bioethics,"Diversity
+"Consent Is Dead, Long Live Ethical Oversight: Integrating Ethically Sourced Data into Demonstrated Consent Models",0,1,biomedicine; bioethics,belisle2025consent,"Diversity
 consent;
 Privacy
 Transparency
@@ -32,7 +32,7 @@ Accessibility","""Ethical integrity and accountability: Ensuring that data pract
 ""energy-efficient consensus mechanisms,"";
 ""The technical requirements—such as reliable
 Internet access, digital literacy, and compatible devices—could exclude individuals in resource-limited settings or under-resourced populations"";"
-A greater share of the stomach? Role of provenance and ethical standards on consumers' food choices and purchasing intentions,0,1,Economy; Food industry,"energy consumption;
+A greater share of the stomach? Role of provenance and ethical standards on consumers' food choices and purchasing intentions,0,1,Economy; Food industry,,"energy consumption;
 emissions and pollution
 animal welfare;
 transparency;
@@ -41,41 +41,41 @@ fair trade","""reduces energy consumption"";
 ""animal welfare""
 ""traceability"";
 ""fair trade"""
-Ethically Sourced Creativity: Shutterstock's Alessandra Sala,1,0,,,
-Ethical Sourcing and Consumer Demand for Coffee,1,0,,,
-Ethical animal use in education and training: From clinical rotations to ethically sourced cadavers,0,1,Education; medicine and biological science,"animal welfare;
+Ethically Sourced Creativity: Shutterstock's Alessandra Sala,1,0,,,,
+Ethical Sourcing and Consumer Demand for Coffee,1,0,,,,
+Ethical animal use in education and training: From clinical rotations to ethically sourced cadavers,0,1,Education; medicine and biological science,,"animal welfare;
 consent","""the highest ethical, welfare, health and safety standards""
 ""Client donated, if a companion animal"""
-Who owns your voice? Ethically sourced voices for non-commercial TTS applications,0,1,"speech synthesis, text-to-speech","privacy;
+Who owns your voice? Ethically sourced voices for non-commercial TTS applications,0,1,"speech synthesis, text-to-speech",scott2019owns,"privacy;
 informed consent;
 representative;
 Intellectual Property Rights (IPR), licensing;","""privacy issues"";
 ""lack of informed consent"",""opt-in"";
 ""varied and representative TTS voices for use by other communities"";
 ""ownership rights"", ""copyright or patent to one's voice"";"
-The Role of Ethical Sourcing Practices in Addressing Price Inflation in Renewable Energy Supply Chains,1,0,,,
-Ethical Sourcing in the Global Food System,0,1,food industry; economy,"fair trade;
+The Role of Ethical Sourcing Practices in Addressing Price Inflation in Renewable Energy Supply Chains,1,0,,,,
+Ethical Sourcing in the Global Food System,0,1,food industry; economy,,"fair trade;
 labor right (working conditions);
 equity","""fair trade"";
 ""decent working condition"";
 ""Ethical Trade: What Does It Mean for Women Workers in African Horticulture?"""
-Ethical sourcing: An analysis of the literature and implications for future research,0,1,Business Ethics; supply chain management,"labor right (fair wage)
+Ethical sourcing: An analysis of the literature and implications for future research,0,1,Business Ethics; supply chain management,,"labor right (fair wage)
 fair trade","""low wage"";
 ""Starbuck’s unfair trade scandal in the early 2000s, which was blamed for making huge profits at the coffee grower’s expense"""
-Ethical sourcing: a contribution to sustainability or a diversion?,0,1,economy,"fair trade;
+Ethical sourcing: a contribution to sustainability or a diversion?,0,1,economy,,"fair trade;
 energy consumption
 emissions and pollution","""fair trade"";
 "" environmental impact assessment and energy and materials accounting ""
 ""waste and pollution management"""
-Supply chain specific? Understanding the patchy success of ethical sourcing initiatives,0,1,economy; supply chain,environment;,"""do not contribute to environmental degradation"""
-The influence of ethical values and food choice motivations on intentions to purchase sustainably sourced foods,0,1,economy; food industry,"fair trade;
+Supply chain specific? Understanding the patchy success of ethical sourcing initiatives,0,1,economy; supply chain,,environment;,"""do not contribute to environmental degradation"""
+The influence of ethical values and food choice motivations on intentions to purchase sustainably sourced foods,0,1,economy; food industry,,"fair trade;
 animal welfare;
 labor rights;
 health and safety","""fair trade"";
 ""animal welfare"";
 ""human rights are not violated"";
 ""Of the food motives variables, only ethical values and health were significant. """
-The influence of ethical culture on supplier selection in the context of sustainable sourcing,0,1,economy; supply chain,"environment (energy consumption)
+The influence of ethical culture on supplier selection in the context of sustainable sourcing,0,1,economy; supply chain,,"environment (energy consumption)
 emissions and pollution
 labor rights (working conditions, legal employment);
 health and safety;
@@ -88,43 +88,43 @@ fairness;","""environmental sustainability"", ""energy consumption and increase 
 ""labor equity"";
 ""diversity"";
 ""fairness"";"
-Ethical Sourcing of Raw Materials,0,1,economy; Cosmetics Industry,"environment (energy consumption);
+Ethical Sourcing of Raw Materials,0,1,economy; Cosmetics Industry,pulverail2013ethical,"environment (energy consumption);
 social responsibility (community development);","""biodiversity"", ""renewable energy and waste management"";
 ""stimulate the development and wellbeing of communities"""
-Fast fashion or clean clothes? Evaluating consumer demand for ethically sourced apparel,0,1,economy,"labor right (fair wage, legal employment);
+Fast fashion or clean clothes? Evaluating consumer demand for ethically sourced apparel,0,1,economy,,"labor right (fair wage, legal employment);
 environment;
 fair trade","""labor rights protection"",""baseline labor standards like child labor, forced overtime and minimum wages "";
 ""environmental protection"";
 ""fair trade"""
-Using ethically sourced training aids for human remains detection dog training,0,1,forensic,"informed consent ;
+Using ethically sourced training aids for human remains detection dog training,0,1,forensic,dargan2024using,"informed consent ;
 animal ethics;","""with the consent of living individuals”, ""voluntary donations"";
 ""ethics approval"";"
-Luxury marketing strategies related to ethical sourcing,0,1,economy; Luxury marketing,"environment (energy consumption, emissions and pollution, biodiversity)","""Current production is unsustainable from a resource, pollution and biodiversity perspective"", ""renewable energy, carbon management"";"
-From banking to international governance: fostering innovation in stem cell research,0,1,,"consent;
+Luxury marketing strategies related to ethical sourcing,0,1,economy; Luxury marketing,,"environment (energy consumption, emissions and pollution, biodiversity)","""Current production is unsustainable from a resource, pollution and biodiversity perspective"", ""renewable energy, carbon management"";"
+From banking to international governance: fostering innovation in stem cell research,0,1,,,"consent;
 privacy;
 accountability (transparency)","""informed consent and
 privacy"";
 ""promote transparency, stewardship, and accountability to generate public support and trust."""
 Leading the transition to ethical human body sourcing in Africa: The South African experience,0,1,"medical; 
-Anatomy","informed consent;
+Anatomy",billings2024leading,"informed consent;
 Social acceptability (culture);
 Social acceptability (religion)","""informed consent"";
 ""integrating cultural and religious needs"", ""traditional religions and the belief"";
 ""integrating cultural and religious needs"", ""traditional religions and the belief"";"
-Ethically Sourced Vanilla: Certifications in the production of vanilla in the SAVA Region of Madagascar,1,0,,,
-A Transparent New World: Ethically Sourced Mineral Supply Chain,0,1,economy; Mineral Supply Chain,"enviornment(emissions and polution);
+Ethically Sourced Vanilla: Certifications in the production of vanilla in the SAVA Region of Madagascar,1,0,,,,
+A Transparent New World: Ethically Sourced Mineral Supply Chain,0,1,economy; Mineral Supply Chain,,"enviornment(emissions and polution);
 transparency;
 labor rights (ilegal employment);
 social responsibility","""such as causing deforestation or chemical pollution"";
 ""Lack of Transparency in Mineral Supply Chain""
 ""child labor or forced labor"";
 ""social responsibility and sustainable development """
-"Supply chain transparency, ethical sourcing, and synthetic diamond alternatives: exploring the perspectives of diamond retailers",1,0,,,
-Sustainable sourcing of organic skincare ingredients: A critical analysis of ethical concerns and environmental implications,1,0,,,
-Ethical sourcing of human embryonic stem cells—rational solutions?,0,0,medicine; biology,,
-Certifying biodiversity: The union for ethical biotrade and the search for ethical sourcing,0,1,environment; biodiversity,environment,biodiversity
-Ethics in business,1,0,,,
-Shareholder value effects of ethical sourcing: comparing reactive and proactive initiatives,0,1,economy,"transparency (supply chain);
+"Supply chain transparency, ethical sourcing, and synthetic diamond alternatives: exploring the perspectives of diamond retailers",1,0,,,,
+Sustainable sourcing of organic skincare ingredients: A critical analysis of ethical concerns and environmental implications,1,0,,,,
+Ethical sourcing of human embryonic stem cells—rational solutions?,0,0,medicine; biology,,,
+Certifying biodiversity: The union for ethical biotrade and the search for ethical sourcing,0,1,environment; biodiversity,,environment,biodiversity
+Ethics in business,1,0,,,,
+Shareholder value effects of ethical sourcing: comparing reactive and proactive initiatives,0,1,economy,kim2022shareholder,"transparency (supply chain);
 social responsibility (community development);
 animal ethics (welfare);
 Labor Rights(ilegal employment, working condition, unfair wage);
@@ -135,7 +135,7 @@ economy (fair trade);","""make the supply chain more transparent"";
 ""child labor"", ""unfair treatment toward their coffee farmer"", ""poor working conditions"", ""human rights and health/safety into suppliers"";
 ""diversity"";
 ""fair trade"";"
-Sustainability and Ethical Considerations in Product Management,0,1,product management,"environment (energy consumtption, emissions and pollution);
+Sustainability and Ethical Considerations in Product Management,0,1,product management,"sanghavi13sustainability,","environment (energy consumtption, emissions and pollution);
 social responsibility (equity);
 transparency;
 economy (fair trade);
@@ -144,11 +144,11 @@ labor rights (fair wages, working condition);","""environmentally responsible"",
 ""Supply Chain Transparency"", ""clear visibility"";
 ""fair trade"";
 ""fair wages and ensuring safe working environments"". ""concerns about exploitation"";"
-[HTML] Launching the tree of life gateway,1,0,,,
+[HTML] Launching the tree of life gateway,1,0,,,,
 Individuals and (synthetic) data points: using value-sensitive design to foster ethical deliberations on epistemic transitions,0,1,"medical;
 voice AI;
 voic recognition;
-synthetic data","data collection (diversity, fairness);
+synthetic data","belisle2023individuals,","data collection (diversity, fairness);
 data availability;
 data privacy;
 informed consent;
@@ -159,10 +159,10 @@ quality (accuracy)","""biases and conceal inequalities"", ""high-quality and div
 ""informed participation"";
 ""transparency""
 ""enhanced diversity, accuracy, and privacy protection, are attained while maintaining accuracy of the synthetized voice data"""
-"Preparation and Preservation of Donated Human Skeletal Remains with the use of Dermestid Beetles, Maceration, and Acryloid B-72 Polymer",1,0,,,
-Sheinerella,1,0,,,
+"Preparation and Preservation of Donated Human Skeletal Remains with the use of Dermestid Beetles, Maceration, and Acryloid B-72 Polymer",1,0,,,,
+Sheinerella,1,0,,,,
 SIG: A Synthetic Identity Generation Pipeline for Generating Evaluation Datasets for Face Recognition,0,1,"image recognition;
-AI;","data privacy;
+AI;",,"data privacy;
 fairness;
 informed consent;
 data collection (diversiity)
@@ -171,9 +171,9 @@ data collection (representativeness);","""privacy regulations"";
 ""user’s consent"";
 ""diverse demographic groups and conditions"";
 ""demographic representation"""
-Examining the Impact of Ethical Supply Chain Practices on Brand Equity: A Qualitative Analysis of Consumer Perceptions,1,0,,,
+Examining the Impact of Ethical Supply Chain Practices on Brand Equity: A Qualitative Analysis of Consumer Perceptions,1,0,,,,
 Early AI lifecycle co-reasoning: ethics through integrated and diverse team science,0,1,"medical AI;
-bioethics","fairness in data collection;
+bioethics","pacia2024early,","fairness in data collection;
 data availability;
 transparency (AI framework);
 diversity in team;
@@ -185,7 +185,7 @@ data collection (representation, and generalizability);","""fair decision-making
 ""DEI (diversity, equity and inclusion)"";
 ""representation, and generalizability"";"
 Stakeholder perspectives on ethical and trustworthy voice AI in health care,0,1,"medical AI;
-voice","fairness (data collection); 
+voice","belisle2024stakeholder,","fairness (data collection); 
 diversity (data collection); 
 data pricacy; 
 environment (energy consumption); 
@@ -205,18 +205,18 @@ and oversampling from diverse groups to ensure proper representation. ""
 ""prioritizing “accuracy and reliability” "
 Investigating the Use of Companion Animal Donor Tissue Banks,0,1,"Bioethics;
 Veterinary Medicine;
-Education; medicine and biological science","informed consent
+Education; medicine and biological science","mitchell2024investigating,","informed consent
 social acceptability;
 animal welfare;","""client-donated"";
 ""morally acceptable"";
 ""animals experience both acute and prolonged pain as well as the discomfort and pain of disease"""
-The Oasis Brew Coffee House Comprehensive Market Analysis for Product Launch,1,0,,,
-Blockchain Technology in Sustainable Supply Chains: Risk Management and Opportunities,1,0,,,
-Merging Blockchain and Augmented Reality for an Immersive Traceability Platform,0,1,supply chain; digital platform,"environment;
+The Oasis Brew Coffee House Comprehensive Market Analysis for Product Launch,1,0,,,,
+Blockchain Technology in Sustainable Supply Chains: Risk Management and Opportunities,1,0,,,,
+Merging Blockchain and Augmented Reality for an Immersive Traceability Platform,0,1,supply chain; digital platform,,"environment;
 transparency","""environmentally friendly"";
 ""traceability"";"
-Alternatives to animal use in veterinary education: A growing debate,1,0,,,
-Navigating the Coffee Business Landscape: Challenges and Adaptation Strategies in a Changing World,0,1,economy; coffee industry,"social acceptability (preference) (consumer awareness); 
+Alternatives to animal use in veterinary education: A growing debate,1,0,,,,
+Navigating the Coffee Business Landscape: Challenges and Adaptation Strategies in a Changing World,0,1,economy; coffee industry,"peluso2023navigating,","social acceptability (preference) (consumer awareness); 
 environment (biodiversity, energy consumption); 
 economy (fair trade); 
 labor rights (fair wage, working conditions, legal employment); 
@@ -225,46 +225,46 @@ transparency (supply chain) ","""consumer preferences"", ""Modern coffee enthusi
 ""fair trade"";
 ""exploit the labor of vulnerable communities"", ""fair wages, safe working conditions, and community support"";
 ""transparency"""
-Beyond the property debate: animal welfare as a public good,0,1,animal ethic; law; economy,"animal welfare;
+Beyond the property debate: animal welfare as a public good,0,1,animal ethic; law; economy,,"animal welfare;
 environment
 social acceptability","""animal walfare"";
 ""environmental protection"",
 ""’The report indicated that consumers were willing to pay up to 20–30% more for ethically sourced foods"""
-Developing an Artisanal Buying Centre System Meeting Ethical Sourcing Criteria,0,1,economy,"transparency in supply chain;
+Developing an Artisanal Buying Centre System Meeting Ethical Sourcing Criteria,0,1,economy,"steenkampdeveloping,","transparency in supply chain;
 labor rights (ilegal employment)","""provenance traceability"";
 ""child labour, or other human rights abuses"""
-Korea national stem cell bank,0,1,medicine,"health / safety (medicine);
+Korea national stem cell bank,0,1,medicine,"kim2021korea,","health / safety (medicine);
 data availability (access);
 informed consents;","""The application of hESCs needs to be ethical and safe."";
 ""data are also available through"";
 ""informed consents"";"
-New NIH program for artificial intelligence in research,1,0,,,
-Oasis Brew Coffee House's Economic Analysis to Local Wisdom,1,0,,,
+New NIH program for artificial intelligence in research,1,0,,,,
+Oasis Brew Coffee House's Economic Analysis to Local Wisdom,1,0,,,,
 The Halal Positive List: Streamlining the Path to Certification,0,1,"religion; Ingredient 
 evaluation; Halal 
-certification","social acceptability (religion);
+certification","alzeer2025halal,","social acceptability (religion);
 safety (food);
 transparency (supply chain)
 contamination","""Halal certification, a crucial religious guideline for Muslims"";
 ""ingredient safety"";
 ""the need for extensive traceability""
 ""ensure that all raw materials are sourced from halal-certified suppliers and inspect production lines to ensure no cross-contamination between halal and non-halal products."""
-Conditioned canine cadavers for near-natural interprofessional veterinary and human surgery training,0,0,Medical and Education; animal,,
-Humane innovations in veterinary anatomy education in India,0,1,Medical and Education; animal,"animal welfare;
+Conditioned canine cadavers for near-natural interprofessional veterinary and human surgery training,0,0,Medical and Education; animal,"eriksen2024conditioned,",,
+Humane innovations in veterinary anatomy education in India,0,1,Medical and Education; animal,"puppala2021humane,","animal welfare;
 informed consent;","""Animal welfare encompasses both the physical and psychological states of the animal"";
 ""with the client signing the euthanasia consent form"", ""Willed-Body Programme ... donated cadavers "";"
-The LA River project: Resting and raging through histories of containment,1,0,,,
-Sustainable and Technological Innovations in Industrial Operations,1,0,,,
-Yankari: A Monolingual Yoruba Dataset,1,0,,,
-Vegan artist: exploring the ethical use of animals in contemporary art through a reconsideration of the vegan philosophy,1,0,,,
-Manufacturing safer medics,1,0,,,
-"Enhancing Gemstone Classification Accuracy: A Deep Learning Approach Using CNN, VGG-19, and Xception",0,0,deep learning,,
-Validation of Ethical COVID-19 Antibody Testing that Adheres to Pro-Life Principles,0,0,medicine,,
-Generation of a Multimodal Atlas of Type 2 Diabetes for Artificial Intelligence (AI-READI): Purpose and Design,1,0,,,
-Ethically Sourced Modeling: A Framework for Mitigating Bias in AI Projects within the US Government,1,0,,,
-Sin tÃ­tulo establecido.,1,0,,,
+The LA River project: Resting and raging through histories of containment,1,0,,,,
+Sustainable and Technological Innovations in Industrial Operations,1,0,,,,
+Yankari: A Monolingual Yoruba Dataset,1,0,,,,
+Vegan artist: exploring the ethical use of animals in contemporary art through a reconsideration of the vegan philosophy,1,0,,,,
+Manufacturing safer medics,1,0,,,,
+"Enhancing Gemstone Classification Accuracy: A Deep Learning Approach Using CNN, VGG-19, and Xception",0,0,deep learning,"nadimpalli2024enhancing,",,
+Validation of Ethical COVID-19 Antibody Testing that Adheres to Pro-Life Principles,0,0,medicine,"mckenna2024validation,",,
+Generation of a Multimodal Atlas of Type 2 Diabetes for Artificial Intelligence (AI-READI): Purpose and Design,1,0,,,,
+Ethically Sourced Modeling: A Framework for Mitigating Bias in AI Projects within the US Government,1,0,,,,
+Sin tÃ­tulo establecido.,1,0,,,,
 "Developing Multi-Disorder Voice Protocols: A team science approach involving clinical expertise, bioethics, standards, and DEI.",0,1,"voice AI;
-medicine","data collection diversity, representativeness; 
+medicine","rameau2024developing,","data collection diversity, representativeness; 
 data privacy and security
 equity;
 informed consent; 
@@ -275,10 +275,10 @@ transparency in data collection; ","""representative of a diverse population"";
 ""complex informed consent"";
 ""datasets remain inaccessible for lack of appropriate consent and sensitivity related to identifiability. "", ""protocol is explicit open-access"";
 ""transparent"";"
-"Tools for Collecting, Synchronizing, and Annotating Ecologically Valid Social Behavior In-the-Wild",1,0,,,
-"Jane Gray's Upcycling Ethos, Lifestyle and Practice",1,0,,,
+"Tools for Collecting, Synchronizing, and Annotating Ecologically Valid Social Behavior In-the-Wild",1,0,,,,
+"Jane Gray's Upcycling Ethos, Lifestyle and Practice",1,0,,,,
 Adima: Abuse detection in multilingual audio,0,1,"voice AI; 
-language dataset","diversity (Data); 
+language dataset","gupta2022adima,","diversity (Data); 
 data privacy; 
 data collection (fairness); 
 labor rights (data annotation, fair wages); 
@@ -289,9 +289,10 @@ informed consent; ","""diverse"", ""well-balanced"";
 ""annotators were employed on a contract basis and fairly compensated"", ""expert annotator"";
 ""Personally Identifiable Information (PII) from the dataset and anonymize it. The raw data is kept on secure servers with strong access restrictions to prevent any malicious usage."";
 ""users’ informed consent"""
-Nudie Jeans: An'Impact First Brand'Contributing to Sustainable Fashion Industry.,1,0,,,
+Nudie Jeans: An'Impact First Brand'Contributing to Sustainable Fashion Industry.,1,0,,,,
 GREEN BEAUTY: THE GROWING DEMAND FOR ORGANIC COSMETICS,0,1,"Organic Cosmetics;
-beauty products; chemistry","environment (emissions and pollution, biodiversity); 
+beauty products; chemistry","Ameta_Tiwari_Chandrul_2024, 
+ameta2024green","environment (emissions and pollution, biodiversity); 
 transparency (supply chain); 
 economy (fair trade); 
 social responsibility (community development); 
@@ -304,17 +305,17 @@ animal welfare; ","""environmental and health impacts"", ""eco-conscious consume
 ""workers are treated fairly"";
 ""personal health"";
 ""Animal welfare"", ""Cruelty Free production and testing"";"
-When Human Labor Doesn't Paint a Pretty Picture: The Cheap= Poor Working Conditions Intuition,1,0,,,
-The addition of a new food product in the Codex Alimentarius: The case of Bali Sardinella (Sardinella lemuru),1,0,,,
-The interaction of glycogen nanoparticles with human blood,0,0,medicine,,
-The Local is Global: Voices of Leaders in Coffee Justice,1,0,,,
-Exploring Sustainability in Design-Seaology and Desert Haven Hotel,1,0,,,
-Blockchain Technology for Cybersecurity: Risk Management in Sustainable Supply Chains,1,0,,,
-NIH to Inject Healthy Bolus of Data to Sustain the Future of AI for Medical Discoveries,1,0,,,
-ETHICAL SUPPLY CHAIN FOR MINERAL ORES IN DEMOCRATIC REPUBLIC OF CONGO USING BLOCKCHAIN TECHNOLOGY,1,0,,,
-Open Artificial Knowledge,1,0,,,
-"Multi-class heart disease Detection, Classification, and Prediction using Machine Learning Models",1,0,,,
-Unveiling Sustainability in ecommerce: GPT-Powered software for identifying sustainable product features,0,1,"economy, ecommerce, sustainability, AI application; software","environment (sustainablily, pollutions and emission, energy consumption);
+When Human Labor Doesn't Paint a Pretty Picture: The Cheap= Poor Working Conditions Intuition,1,0,,,,
+The addition of a new food product in the Codex Alimentarius: The case of Bali Sardinella (Sardinella lemuru),1,0,,,,
+The interaction of glycogen nanoparticles with human blood,0,0,medicine,"davydiuk2025interaction,",,
+The Local is Global: Voices of Leaders in Coffee Justice,1,0,,,,
+Exploring Sustainability in Design-Seaology and Desert Haven Hotel,1,0,,,,
+Blockchain Technology for Cybersecurity: Risk Management in Sustainable Supply Chains,1,0,,,,
+NIH to Inject Healthy Bolus of Data to Sustain the Future of AI for Medical Discoveries,1,0,,,,
+ETHICAL SUPPLY CHAIN FOR MINERAL ORES IN DEMOCRATIC REPUBLIC OF CONGO USING BLOCKCHAIN TECHNOLOGY,1,0,,,,
+Open Artificial Knowledge,1,0,,,,
+"Multi-class heart disease Detection, Classification, and Prediction using Machine Learning Models",1,0,,,,
+Unveiling Sustainability in ecommerce: GPT-Powered software for identifying sustainable product features,0,1,"economy, ecommerce, sustainability, AI application; software",roumeliotis2023unveiling,"environment (sustainablily, pollutions and emission, energy consumption);
 fair trade;
 labor right (fair wage, working condition, legal employment);
 social responsibility (community development);
@@ -326,7 +327,7 @@ animal welfare","“recyclable, reusable, renewable,energy efficient, sustainabl
 ""non-toxic""; ->food safety
 ""cruelty-free""; ->animal welfare
 "
-"Sustainable procurement practices: Balancing compliance, ethics, and cost-effectiveness",0,1,economy,"environment;
+"Sustainable procurement practices: Balancing compliance, ethics, and cost-effectiveness",0,1,economy,adebayo2024sustainable,"environment;
 social responsibility;
 transparency;
 fairness (fair trade);
@@ -339,17 +340,17 @@ human / labor rights (fair wage, working conditions, legal employment)","""envir
 ""Integrity: Conducting procurement activities honestly and following ethical standards, avoiding conflicts of interest and corruption.""
 ""Accountability: Holding all parties responsible for their actions and decisions in the procurement process.
 ""paying fair wages, providing safe working conditions, and prohibiting child labor and forced labor."""
-International Conference on Humane Innovations in Education-Oral Abstracts,1,0,,,
-"Clean beauty'branding: A bricolage of bodily and spiritual health, ancient wisdom and ethical virtue",0,0,clean beauty products,,
-Automated speech recognition of Indonesian-English language lessons on YouTube using transfer learning,0,0,automatic speech recognition (ASR) ; AI; eithically sourced data,,
-Development of negative TiO2-based electrodes by soft chemistry for aqueous proton ions batteries,1,0,,,
-Charting a Course toward a New Vaccine Strategy,0,1,religion; medicine,"social acceptability
+International Conference on Humane Innovations in Education-Oral Abstracts,1,0,,,,
+"Clean beauty'branding: A bricolage of bodily and spiritual health, ancient wisdom and ethical virtue",0,0,clean beauty products,,,
+Automated speech recognition of Indonesian-English language lessons on YouTube using transfer learning,0,0,automatic speech recognition (ASR) ; AI; eithically sourced data,,,
+Development of negative TiO2-based electrodes by soft chemistry for aqueous proton ions batteries,1,0,,,,
+Charting a Course toward a New Vaccine Strategy,0,1,religion; medicine,,"social acceptability
 religion
 fair trade","""the ethical acceptance"";
 ""urging Catholics not to use them ""
 ""Fair Trade agricultural products"""
-Coco Craze: Terminal year end report,1,0,,,
-A novel mixed methods approach for integrating not-for-profit service data via qualitative geographic information system to explore authentic experiences of ill-health: A Case Study of Rural Mental Health,0,1,health/medicine,"consent;
+Coco Craze: Terminal year end report,1,0,,,,
+A novel mixed methods approach for integrating not-for-profit service data via qualitative geographic information system to explore authentic experiences of ill-health: A Case Study of Rural Mental Health,0,1,health/medicine,,"consent;
 diversity in teams;
 data availability;
 licensing;
@@ -358,10 +359,10 @@ privacy;","""how end-user consented to their data being reused in research"" (fi
 ""manages data access""
 ""sensitive data"", ""data sharing license or agreement""
 ""protect end-user anomymity""(figure 1)"
-From policy to practice: Illustrating the viability of full replacement,0,1,"veterinary, education",animal welfare,"""Freedom from pain, injury and disease"""
-Litigating Corporate Human Rights Information,1,0,,,
-An Accessible Nephrectomy and Cystotomy Simulator for Use in Teaching Small Animal Surgery,0,0,"veterinary, education",,
-Ethical Requirements for Achieving Fairness in Radiology Machine Learning: An Intersectionality and Social Embeddedness Approach,0,1,Machine Learning,"fairness;
+From policy to practice: Illustrating the viability of full replacement,0,1,"veterinary, education",,animal welfare,"""Freedom from pain, injury and disease"""
+Litigating Corporate Human Rights Information,1,0,,,,
+An Accessible Nephrectomy and Cystotomy Simulator for Use in Teaching Small Animal Surgery,0,0,"veterinary, education",,,
+Ethical Requirements for Achieving Fairness in Radiology Machine Learning: An Intersectionality and Social Embeddedness Approach,0,1,Machine Learning,,"fairness;
 diversity in teams
 representative
 privacy;
@@ -370,12 +371,12 @@ consent","""ML systems learn from human clinical judgements, which are often bia
 ""data must be representative of the respective patient population and underlying context""
 ""privacy-preserving""
 ""ethically sourced, i.e. sourced patient data based on valid informed patient consent; """
-Clean and lean makes for IPO success,1,0,,,
-"Edibeans: Thinking globally, acting locally",1,0,,,
-The educational efficacy of humane teaching methods: a systematic review of the evidence,0,0,animal use in education and training; life and health sciences,,
+Clean and lean makes for IPO success,1,0,,,,
+"Edibeans: Thinking globally, acting locally",1,0,,social responsibility,,
+The educational efficacy of humane teaching methods: a systematic review of the evidence,0,0,animal use in education and training; life and health sciences,,,
 Combining science and faith for better quality and safety in halalan toyyiban products,0,1,"religion; Ingredient
 evaluation; Halal
-certification; food, cosmetics, and pharmaceutical industries","integrity (contamination)
+certification; food, cosmetics, and pharmaceutical industries",,"integrity (contamination)
 labor right (fair wage);
 social responsibility
 environment
@@ -386,7 +387,7 @@ safety/healthy","""detect non-halal contaminants and verify product integrity"";
 ""damages the environment"";
 ""religiously permissible""
 ""guarantees safety"", ""high standards of hygiene, quality, safety"""
-Companion animal cadaver donation for teaching purposes at veterinary medicine colleges: A discrete choice experiment,0,0,Education; Life Sciences,,
-"Grape Expectations: Newsflash: Gewurztraminer is not the best--or only--wine pairing for"" Asian"" cuisine.",1,0,,,
-Rethinking the marketing mix: a Gecko Kids dilemma in the digital era,1,0,,,
-"Critical Minerals, Critical Capacity and Critical Evaluation",1,0,,,
+Companion animal cadaver donation for teaching purposes at veterinary medicine colleges: A discrete choice experiment,0,0,Education; Life Sciences,,,
+"Grape Expectations: Newsflash: Gewurztraminer is not the best--or only--wine pairing for"" Asian"" cuisine.",1,0,,,,
+Rethinking the marketing mix: a Gecko Kids dilemma in the digital era,1,0,,,,
+"Critical Minerals, Critical Capacity and Critical Evaluation",1,0,,,,
