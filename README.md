@@ -1,4 +1,4 @@
-![Literature_Review_Overview](figures/literature_review_overview.png)
+![Literature_Review_Overview](figures/Figure2_literature_review_overview.png)
 
 
 
@@ -11,7 +11,7 @@
 
 
 
-**appendix - relevant paper 45 (general).csv:** 45 relevant papers from Cross-disciplinary General Literature Search. Containing labeled dimensions, and relevant phases indicating the dimensions. 
+**appendix - relevant paper 45 (general).csv:** 45 relevant papers from Cross-disciplinary General Literature Search. It contains labeled domains, dimensions, and relevant phases indicating the dimensions. 
 
 
 
@@ -19,15 +19,15 @@
 
 
 
-**appendix - snowball backward (after searching).csv:** 258 papers got by searching keywords on 1037 candidate papers from backward snowballing. If you filter out those with exclude=1, you will get 160 candidate papers. If you check those with selected=1, you will get 8 relevant papers.
+**appendix - snowball backward (after searching).csv:** 258 papers got by searching keywords on 1037 candidate papers from backward snowballing. If you filter out those with exclude=1, you will get 160 candidate papers. If you check those with selected=1, you will get 8 relevant papers. It also contains a column "snowballing source title" indicating where each paper is snowballed from.
 
 
 
-**appendix - snowball backward (after searching).csv:** 251 papers got by searching keywords on 7056 candidate papers from forward snowballing. If you filter out those with exclude=1, you will get 132 candidate papers. If you check those with selected=1, you will get 1 relevant paper.
+**appendix - snowball backward (after searching).csv:** 251 papers got by searching keywords on 7056 candidate papers from forward snowballing. If you filter out those with exclude=1, you will get 132 candidate papers. If you check those with selected=1, you will get 1 relevant paper. It also contains a column "snowballing source title" indicating where each paper is snowballed from.
 
 
 
-**appendix - relevant paper 26 (specific).csv:** 26 relevant papers from 17 (specific search) + 8 (backward snowballing) + 1 (forward snowballing). Containing labeled dimensions, and relevant phases indicating the dimensions. 
+**appendix - relevant paper 26 (specific).csv:** 26 relevant papers from 17 (specific search) + 8 (backward snowballing) + 1 (forward snowballing). It contains labeled dimensions, and relevant phases indicating the dimensions. 
 
 
 
@@ -74,7 +74,7 @@ The complete survey we sent to participants.
 
 
 ## **"figures" folder:**
-Contains the workflow of our literature review (as shown above) and Figures 3 to 6.
+Contains Figures 1 to 4 shown in our paper. Figure 2 shown above is the workflow of our literature review.
 
 
 
