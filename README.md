@@ -34,7 +34,8 @@
 **appendix - taxonomy and citations.csv:** complete list of references for each aspect under the dimensions. We also added a column ``first appeared in which general paper''.
 
 
-
+**appendix - SEGRESS checklist.csv:** According to a reviewer's comment, we considered aligning our work with the highly influential PRISMA 2020 guideline [R1]. However, as noted by SEGRESS [R2], PRISMA 2020 is for quantitative systematic reviews, rather than mapping studies or qualitative reviews. Therefore, we filled TABLE 9
+SEGRESS: The PRISMA 2020-Inspired Structured Checklist for Reporting SE Secondary Studies [R2] instead.
 
 
 ## **"survey (anonymized for review).pdf"**: 
@@ -83,8 +84,10 @@ Contains Figures 1 to 4 shown in our paper. Figure 2 shown above is the workflow
 ### **Exclusion Criteria for the Literature Review**:
 1. Papers that are either not in English or not published in scholarly journals or conferences (This process is marked as “Exclude” in the workflow)
 
-2. Irrelevant papers that: (This process is marked as as “Select” in the workflow)
+2. Irrelevant papers that: (This process is marked as as “Select” in the workflow):
+
     a. only reflect on the keywords in sections like “Discussion” or “Related Work” instead of discussing the keyword itself
+
     b. superficially mention the keywords, but do not focus on ethical sourcing issues
     
 
@@ -102,3 +105,14 @@ For the Domain-Specific Literature Search, we used all three sets of keywords (k
 **key2 (synonyms of "artificial intelligence")**: LLM, AI, artificial intelligence, LLMs, large language models
 
 **key3 (synonyms of "code generation")**: code generation, code creation, generate code, code writing, code production, code correction, code quality
+
+### Competing Interests
+
+No conflicts.
+
+
+## References
+
+[R1] Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., ... & Moher, D. (2021). The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. bmj, 372.
+
+[R2] Kitchenham, B., Madeyski, L., & Budgen, D. (2022). SEGRESS: Software engineering guidelines for reporting secondary studies. IEEE Transactions on Software Engineering, 49(3), 1273-1298.
